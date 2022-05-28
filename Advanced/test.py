@@ -1,3 +1,8 @@
-asd = [["1", 2, 3], [4, 5, 6]]
-asd[0][0] = int(asd[0][0])
+from collections import deque
+
+asd = deque()
+asd.append(1)
+asd.append(2)
+asd.append(3)
+
 print(asd)
