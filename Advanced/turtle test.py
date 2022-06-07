@@ -1,17 +1,39 @@
+# Python program to user input pattern
+# using Turtle Programming
+import turtle  # Outside_In
 import turtle
+import time
+import random
 
-turtle.forward(150)
+print("This program draws shapes based on the number you enter in a uniform pattern.")
+num_str = input("Enter the side number of the shape you want to draw: ")
+if num_str.isdigit():
+    squares = int(num_str)
 
-turtle.left(15)
+angle = 180 - 180 * (squares - 2) / squares
 
-turtle.forward(50)
+turtle.up
 
-# turtle.done()
+x = 0
+y = 0
+turtle.setpos(x, y)
 
-turtle.backward(150)
+numshapes = 8
+for x in range(numshapes):
+    turtle.color(random.random(), random.random(), random.random())
+    x += 5
+    y += 5
+    turtle.forward(x)
+    turtle.left(y)
+    for i in range(squares):
+        turtle.begin_fill()
+        turtle.down()
+        turtle.forward(40)
+        turtle.left(angle)
+        turtle.forward(40)
+        print(turtle.pos())
+        turtle.up()
+        turtle.end_fill()
 
-turtle.left(150)
-
-turtle.forward(50)
-
-turtle.done()
+time.sleep(11)
+turtle.bye()
