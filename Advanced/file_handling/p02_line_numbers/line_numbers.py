@@ -29,6 +29,7 @@ number_of_lines = 0
 # Execution code
 with open("./text_input_file.txt", "r") as input_file:
     output_file = open("./text_output_file.txt", "w")
+
     while True:
         line = input_file.readline()
 
