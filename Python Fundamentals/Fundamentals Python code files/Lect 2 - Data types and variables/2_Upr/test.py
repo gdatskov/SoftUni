@@ -1,0 +1,2 @@
+print(enumerate("asdqw"))
+enumerate

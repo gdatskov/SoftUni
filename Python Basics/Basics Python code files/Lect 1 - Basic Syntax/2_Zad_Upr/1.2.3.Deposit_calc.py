@@ -1,0 +1,5 @@
+deposit=float(input())
+months=int(input())
+apy=float(input())
+yeld=deposit+months*((deposit*apy/100)/12)
+print(yeld)
