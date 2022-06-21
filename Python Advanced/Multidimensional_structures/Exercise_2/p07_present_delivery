@@ -21,10 +21,10 @@ for x in range(size):
 good_kids_total = len(good_kids)
 
 data = {
-    "up":    (-1,  0),
-    "down":  ( 1,  0),
     "left":  ( 0, -1),
     "right": ( 0,  1),
+    "up":    (-1,  0),
+    "down":  ( 1,  0),
 }
 
 while santa_presents:
@@ -32,8 +32,8 @@ while santa_presents:
     if direction == "Christmas morning":
         break
     if not 0 <= santa[0] + data[direction][0] < size or not 0 <= santa[1] + data[direction][1] < size:
-        # continue
-        pass
+        continue
+        # pass
     else:
         board[santa[0]][santa[1]] = "-"
         santa[0] += data[direction][0]
@@ -45,17 +45,17 @@ while santa_presents:
         santa_presents -= 1
     elif santa in cookies:
         cookies.remove(santa)
-        for dr in data.values():
-            check = [santa[0] + dr[0], santa[1] + dr[1]]
-            if check in good_kids:
-                good_kids.remove(check)
-                # board[check[0]][check[1]] = "-"
+        for move in data.values():
+            check = [santa[0] + move[0], santa[1] + move[1]]
+            if check in good_kids or check in naughty_kids:
+                if check in good_kids:
+                    good_kids.remove(check)
+                elif check in naughty_kids:
+                    naughty_kids.remove(check)
                 santa_presents -= 1
-            if check in naughty_kids:
-                naughty_kids.remove(check)
-                # board[check[0]][check[1]] = "-"
-                santa_presents -= 1
-            board[check[0]][check[1]] = "-"
+                board[check[0]][check[1]] = "-"
+            if not santa_presents:
+                break
 
     # Print turn
     # print(direction)
@@ -63,7 +63,7 @@ while santa_presents:
     #     print(" ".join(i))
     # print()
 
-if not santa_presents:
+if not santa_presents and good_kids:
     print("Santa ran out of presents!")
 
 for i in board:
@@ -72,4 +72,4 @@ for i in board:
 if good_kids:
     print(f"No presents for {len(good_kids)} nice kid/s.")
 else:
-    print(f"Good job, Santa! {good_kids_total-len(good_kids)} happy nice kid/s.")
+    print(f"Good job, Santa! {good_kids_total} happy nice kid/s.")
