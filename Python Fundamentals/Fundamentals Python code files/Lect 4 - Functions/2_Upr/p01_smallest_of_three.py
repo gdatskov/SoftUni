@@ -6,4 +6,4 @@ def smallest_of_three():
     return smallest
 
 
-print(smallest_of_three)
+print(smallest_of_three())
