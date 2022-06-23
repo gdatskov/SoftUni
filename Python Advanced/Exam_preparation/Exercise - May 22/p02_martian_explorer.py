@@ -1,3 +1,4 @@
+rover_row, rover_col = 0, 0
 terrain = []
 size = 6
 
@@ -21,7 +22,6 @@ deposits = {
     "W": [],
     "M": [],
     "C": [],
-
 }
 
 decipher = {
