@@ -1,1 +1,1 @@
-change
+print(not -1)
