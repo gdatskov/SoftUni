@@ -1,3 +1,6 @@
-// this is test
-console.log("asd")
-console.log(asd)
+function round() {
+    let a = 5.55
+    console.log(a.toFixed(1))
+}
+
+round()
