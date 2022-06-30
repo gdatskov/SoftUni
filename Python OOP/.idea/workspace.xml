@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="First steps in OOP Exercise - Problem 08. Pokemon Battle">
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p01_vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/lab/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/lab/glass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/lab/point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/lab/smartphone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Classes and instances - Lab exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -462,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656579974409</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Classes and instances - Lab exercises">
+      <created>1656585643163</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656585643163</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,6 +487,7 @@
     <MESSAGE value="First steps in OOP Exercise - Problem 07. Programmer" />
     <MESSAGE value="First steps in OOP Exercise - renaming folder" />
     <MESSAGE value="First steps in OOP Exercise - Problem 08. Pokemon Battle" />
-    <option name="LAST_COMMIT_MESSAGE" value="First steps in OOP Exercise - Problem 08. Pokemon Battle" />
+    <MESSAGE value="Classes and instances - Lab exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes and instances - Lab exercises" />
   </component>
 </project>
