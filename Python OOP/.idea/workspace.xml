@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Classes and instances - Lab exercises">
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p02_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p03_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p04_pizza_delivery.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Classes and instances - Exercises first part">
+      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p05_todo_list/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p05_todo_list/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p05_todo_list/project/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p05_todo_list/project/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p05_todo_list/todo_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/guild_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/project/guild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/project/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +61,8 @@
       <recent name="D:\SoftUni\Python OOP\lesson01_first_steps_in_oop\p08_pokemon_battle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p04_pizza_delivery">
-    <configuration name="p01_vet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.guild_system">
+    <configuration name="guild" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_instances/exercise/p01_vet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/project/guild.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p02_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="guild_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_instances/exercise/p02_time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/guild_system.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="smartphone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="todo_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,11 +322,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/exercise/p05_todo_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_instances/lab/smartphone.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_instances/exercise/p05_todo_list/todo_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.guild_system" />
+        <item itemvalue="Python.guild" />
+        <item itemvalue="Python.todo_list" />
         <item itemvalue="Python.p04_pizza_delivery" />
         <item itemvalue="Python.p03_account" />
-        <item itemvalue="Python.p02_time" />
-        <item itemvalue="Python.p01_vet" />
-        <item itemvalue="Python.smartphone" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656585643163</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Classes and instances - Exercises first part">
+      <created>1656590164417</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656590164417</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,6 +507,7 @@
     <MESSAGE value="First steps in OOP Exercise - renaming folder" />
     <MESSAGE value="First steps in OOP Exercise - Problem 08. Pokemon Battle" />
     <MESSAGE value="Classes and instances - Lab exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes and instances - Lab exercises" />
+    <MESSAGE value="Classes and instances - Exercises first part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes and instances - Exercises first part" />
   </component>
 </project>
