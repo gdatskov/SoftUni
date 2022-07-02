@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Inheritance - Exercise - Program 02. Zoo">
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/players_and_monsters_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/blade_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/dark_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/dark_wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/muse_elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/soul_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/wizard.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Inheritance - Exercise - Program 03. Players and monsters">
       <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -483,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656794232455</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Inheritance - Exercise - Program 03. Players and monsters">
+      <created>1656797740399</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1656797740399</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -518,7 +512,8 @@
     <MESSAGE value="Classes and instances - Exercise - Program 08. Library" />
     <MESSAGE value="Inheritance - Exercise - Program 01. Person" />
     <MESSAGE value="Inheritance - Exercise - Program 02. Zoo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance - Exercise - Program 02. Zoo" />
+    <MESSAGE value="Inheritance - Exercise - Program 03. Players and monsters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance - Exercise - Program 03. Players and monsters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
