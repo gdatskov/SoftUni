@@ -28,4 +28,3 @@ class Registration:
                     del library.rented_books[old_username]
                 return f"Username successfully changed to: {new_username} for user id: {user_id}"
         return f"There is no user with id = {user_id}!"
-

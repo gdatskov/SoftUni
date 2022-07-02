@@ -4,27 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Classes and instances - Exercise - Program 05. To-do list">
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/guild_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/project/guild.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p06_guild_system/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p07_spoopify/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p07_spoopify/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p07_spoopify/project/album.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p07_spoopify/project/band.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p07_spoopify/project/song.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p07_spoopify/spoopify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/library_test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/library_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project/library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project/registration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/test.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Classes and instances - Exercise - Program 08. Library">
+      <change afterPath="$PROJECT_DIR$/inheritance/p01_person/person_test_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p01_person/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p01_person/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p01_person/project/child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p01_person/project/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/bear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/gorilla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/lizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/reptile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/zoo_test_input.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project/registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project/registration.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,35 +60,14 @@
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\inheritance\p01_person" />
       <recent name="D:\SoftUni\Python OOP\classes_and_instances\lab" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
       <recent name="D:\SoftUni\Python OOP" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project" />
-      <recent name="D:\SoftUni\Python OOP\lesson01_first_steps_in_oop\p08_pokemon_battle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.library_test2">
-    <configuration name="library (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project/library.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.zoo_test_input">
     <configuration name="library_test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="person_test_input (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +118,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson01_first_steps_in_oop/p08_pokemon_battle/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p01_person" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\lesson01_first_steps_in_oop\p08_pokemon_battle\pokemon_battle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance/p01_person/person_test_input.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="person_test_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\inheritance\p01_person\person_test_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,48 +299,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="registration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project/registration.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/exercise/p08_library" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -365,7 +320,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zoo_test_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,11 +328,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_steps_in_oop/p08_pokemon_battle/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p02_zoo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project\trainer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance/p02_zoo/zoo_test_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zoo_test_input" />
+        <item itemvalue="Python.person_test_input (1)" />
+        <item itemvalue="Python.person_test_input" />
         <item itemvalue="Python.library_test2" />
         <item itemvalue="Python.library_test1" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.library (1)" />
-        <item itemvalue="Python.registration" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +451,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656595371893</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Classes and instances - Exercise - Program 06. Guild System">
+      <created>1656616854858</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656616854858</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Classes and instances - Exercise - Program 07. Spoopify">
+      <created>1656616893423</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656616893423</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Classes and instances - Exercise - Program 08. Library">
+      <created>1656616924400</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1656616924400</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -509,6 +485,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -525,17 +502,13 @@
     <MESSAGE value="Classes and instances - Lab exercises" />
     <MESSAGE value="Classes and instances - Exercises first part" />
     <MESSAGE value="Classes and instances - Exercise - Program 05. To-do list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes and instances - Exercise - Program 05. To-do list" />
+    <MESSAGE value="Classes and instances - Exercise - Program 06. Guild System" />
+    <MESSAGE value="Classes and instances - Exercise - Program 07. Spoopify" />
+    <MESSAGE value="Classes and instances - Exercise - Program 08. Library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes and instances - Exercise - Program 08. Library" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/classes_and_instances/exercise/p08_library/library_test1.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
