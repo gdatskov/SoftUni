@@ -4,24 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Classes and instances - Exercise - Program 08. Library">
-      <change afterPath="$PROJECT_DIR$/inheritance/p01_person/person_test_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p01_person/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p01_person/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p01_person/project/child.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p01_person/project/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/bear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/gorilla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/lizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/project/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p02_zoo/zoo_test_input.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Inheritance - Exercise - Program 02. Zoo">
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/players_and_monsters_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/blade_knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/dark_knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/dark_wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/muse_elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/soul_master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/wizard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project/registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/project/registration.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +64,8 @@
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zoo_test_input">
-    <configuration name="library_test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.players_and_monsters_test">
+    <configuration name="hero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,32 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/exercise/p08_library" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\classes_and_instances\exercise\p08_library\library_test1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="library_test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_and_instances/exercise/p08_library" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_instances/exercise/p08_library/library_test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/hero.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,6 +120,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\inheritance\p01_person\person_test_input.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="players_and_monsters_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p03_players_and_monsters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance/p03_players_and_monsters/players_and_monsters_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.players_and_monsters_test" />
+        <item itemvalue="Python.hero" />
         <item itemvalue="Python.zoo_test_input" />
         <item itemvalue="Python.person_test_input (1)" />
         <item itemvalue="Python.person_test_input" />
-        <item itemvalue="Python.library_test2" />
-        <item itemvalue="Python.library_test1" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +469,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656616924400</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Inheritance - Exercise - Program 01. Person">
+      <created>1656794170572</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656794170572</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Inheritance - Exercise - Program 02. Zoo">
+      <created>1656794232455</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1656794232455</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -505,7 +516,9 @@
     <MESSAGE value="Classes and instances - Exercise - Program 06. Guild System" />
     <MESSAGE value="Classes and instances - Exercise - Program 07. Spoopify" />
     <MESSAGE value="Classes and instances - Exercise - Program 08. Library" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes and instances - Exercise - Program 08. Library" />
+    <MESSAGE value="Inheritance - Exercise - Program 01. Person" />
+    <MESSAGE value="Inheritance - Exercise - Program 02. Zoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance - Exercise - Program 02. Zoo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
