@@ -1,6 +1,6 @@
 class Town:
-    def __init__(self, town_name):
-        self.town_name = town_name
+    def __init__(self, name):
+        self.name = name
         self.latitude = "0°N"
         self.longitude = "0°E"
 
@@ -11,7 +11,7 @@ class Town:
         self.longitude = longitude
 
     def __repr__(self):
-        return f"Town: {self.town_name} | Latitude: {self.latitude} | Longitude: {self.longitude}"
+        return f"Town: {self.name} | Latitude: {self.latitude} | Longitude: {self.longitude}"
 
 
 town = Town("Sofia")
