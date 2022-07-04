@@ -1,12 +1,12 @@
 class Class:
 
-    # __students_count = 22
+    __students_count = 22
 
-    def __init__(self, name):
+    def __init__(self, name: str):
         self.name = name
         self.students = []
         self.grades = []
-        self.__students_count = 22
+        # self.__students_count = 22
 
     def add_student(self, name: str, grade: float):
         # if len(self.students) < Class.__students_count:
@@ -14,11 +14,11 @@ class Class:
             self.students.append(name)
             self.grades.append(grade)
 
-    def average_grade(self):
+    def get_average_grade(self):
         return sum(self.grades) / len(self.students)
 
     def __repr__(self):
-        return f"The students in {self.name}: {', '.join(self.students)}. Average grade: {self.average_grade():.2f}"
+        return f"The students in {self.name}: {', '.join(self.students)}. Average grade: {self.get_average_grade():.2f}"
 
 
 a_class = Class("11B")
