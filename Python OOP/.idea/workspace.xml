@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Inheritance - Exercise - Program 04. Need for Speed">
-      <change afterPath="$PROJECT_DIR$/inheritance/p05_shop/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/project/drink.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/drink.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/project/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/project/product_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/product_repository.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/shop.py" afterDir="false" />
-    </list>
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="[bugfixes] Inheritance - Exercise - Program 05. Shop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -448,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656801731119</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="[bugfixes] Inheritance - Exercise - Program 05. Shop">
+      <created>1657117319276</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1657117319276</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +485,8 @@
     <MESSAGE value="Inheritance - Exercise - Program 03. Players and monsters" />
     <MESSAGE value="[answer to why it works] Inheritance - Exercise - Program 03. Players and monsters" />
     <MESSAGE value="Inheritance - Exercise - Program 04. Need for Speed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance - Exercise - Program 04. Need for Speed" />
+    <MESSAGE value="[bugfixes] Inheritance - Exercise - Program 05. Shop" />
+    <option name="LAST_COMMIT_MESSAGE" value="[bugfixes] Inheritance - Exercise - Program 05. Shop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
