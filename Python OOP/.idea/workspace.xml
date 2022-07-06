@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Inheritance - Exercise - Program 04. Need for Speed">
-      <change afterPath="$PROJECT_DIR$/inheritance/p05_shop/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/product_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/p05_shop/shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/p05_shop/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/project.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/project/drink.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/drink.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/project/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/project/product_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/project/product_repository.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/shop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -52,11 +50,11 @@
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\inheritance\p05_shop" />
       <recent name="D:\SoftUni\Python OOP\inheritance\p01_person" />
       <recent name="D:\SoftUni\Python OOP\classes_and_instances\lab" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
       <recent name="D:\SoftUni\Python OOP" />
-      <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project" />
     </key>
   </component>
   <component name="RunManager" selected="Python.shop">
@@ -115,27 +113,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance/p03_players_and_monsters/players_and_monsters_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson01_first_steps_in_oop/p08_pokemon_battle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\lesson01_first_steps_in_oop\p08_pokemon_battle\project\pokemon_battle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,55 +268,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_steps_in_oop/p08_pokemon_battle/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p05_shop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project\trainer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zoo_test_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p02_zoo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance/p02_zoo/zoo_test_input.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/inheritance/p05_shop/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.shop" />
+        <item itemvalue="Python tests.Python tests in test.py" />
         <item itemvalue="Python.need_for_speed" />
         <item itemvalue="Python.players_and_monsters_test" />
         <item itemvalue="Python.hero" />
-        <item itemvalue="Python.zoo_test_input" />
       </list>
     </recent_temporary>
   </component>
