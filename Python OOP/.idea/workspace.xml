@@ -5,6 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="[bugfixes] Inheritance - Exercise - Program 05. Shop">
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/caretaker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/cheetah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/keeper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/lion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/tiger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/vet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +45,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -44,11 +55,11 @@
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project" />
       <recent name="D:\SoftUni\Python OOP\inheritance\p05_shop" />
       <recent name="D:\SoftUni\Python OOP\inheritance\p01_person" />
       <recent name="D:\SoftUni\Python OOP\classes_and_instances\lab" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
-      <recent name="D:\SoftUni\Python OOP" />
     </key>
   </component>
   <component name="RunManager" selected="Python.shop">
@@ -449,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657117319276</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="[bugfixes] Inheritance - Exercise - Program 05. Shop">
+      <created>1657220424419</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1657220424419</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
