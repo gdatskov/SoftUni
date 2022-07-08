@@ -4,24 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="[bugfixes] Inheritance - Exercise - Program 05. Shop">
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/caretaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/cheetah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/keeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/lion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/tiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/zoo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="[Skeleton]Encapsulation - Exercise - Program 01. Wild Cat Zoo">
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/zoo_better_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project_better_solution.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/unit_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/wild_cat_zoo_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/caretaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/caretaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/cheetah.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/cheetah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/keeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/keeper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/lion.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/lion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/tiger.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/tiger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/vet.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/vet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/cheetah.py" />
+    </disable_hints>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,11 +55,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
@@ -62,112 +73,7 @@
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.shop">
-    <configuration name="hero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance/p03_players_and_monsters/project/hero.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="need_for_speed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p04_need_for_speed" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance/p04_need_for_speed/need_for_speed.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="players_and_monsters_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p03_players_and_monsters" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance/p03_players_and_monsters/players_and_monsters_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson01_first_steps_in_oop/p08_pokemon_battle/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\lesson01_first_steps_in_oop\p08_pokemon_battle\pokemon_battle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_steps_in_oop/p08_pokemon_battle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project\pokemon_battle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.wild_cat_zoo_test">
     <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p05_shop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance/p05_shop/shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,27 +179,90 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="unit_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\unit_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wild_cat_zoo_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/wild_cat_zoo_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zoo_better_solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project\zoo_better_solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in unit_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritance/p05_shop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/inheritance/p05_shop/test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/unit_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.shop" />
-        <item itemvalue="Python tests.Python tests in test.py" />
-        <item itemvalue="Python.need_for_speed" />
-        <item itemvalue="Python.players_and_monsters_test" />
-        <item itemvalue="Python.hero" />
+        <item itemvalue="Python.wild_cat_zoo_test" />
+        <item itemvalue="Python tests.Python tests in unit_test.py" />
+        <item itemvalue="Python.unit_test" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.zoo_better_solution" />
       </list>
     </recent_temporary>
   </component>
@@ -467,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657220424419</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="[Skeleton]Encapsulation - Exercise - Program 01. Wild Cat Zoo">
+      <created>1657224126580</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1657224126580</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,7 +482,8 @@
     <MESSAGE value="[answer to why it works] Inheritance - Exercise - Program 03. Players and monsters" />
     <MESSAGE value="Inheritance - Exercise - Program 04. Need for Speed" />
     <MESSAGE value="[bugfixes] Inheritance - Exercise - Program 05. Shop" />
-    <option name="LAST_COMMIT_MESSAGE" value="[bugfixes] Inheritance - Exercise - Program 05. Shop" />
+    <MESSAGE value="[Skeleton]Encapsulation - Exercise - Program 01. Wild Cat Zoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Skeleton]Encapsulation - Exercise - Program 01. Wild Cat Zoo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

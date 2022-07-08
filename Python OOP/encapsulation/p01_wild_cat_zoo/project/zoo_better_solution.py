@@ -59,14 +59,12 @@ class Zoo:
         self.__budget += amount
 
     def animals_status(self):
-        animals = {
-            "Lion": [],
-            "Tiger": [],
-            "Cheetah": [],
-        }
+        animals = {}
         for animal in self.animals:
             class_name = animal.__class__.__name__
-            if class_name in animals.keys():
+            if class_name not in animals.keys():
+                animals[class_name] = [animal]
+            else:
                 animals[class_name].append(animal)
 
         to_return = [f"You have {len(self.animals)} animals"]
@@ -77,20 +75,18 @@ class Zoo:
         return "\n".join(to_return)
 
     def workers_status(self):
-        workers = {
-            "Keeper": [],
-            "Caretaker": [],
-            "Vet": [],
-        }
+        workers = {}
         for worker in self.workers:
             class_name = worker.__class__.__name__
-            if class_name in workers.keys():
+            if class_name not in workers.keys():
+                workers[class_name] = [worker]
+            else:
                 workers[class_name].append(worker)
 
         to_return = [f"You have {len(self.workers)} workers"]
         for worker_type in workers.keys():
             to_return.append(f"----- {len(workers[worker_type])} {worker_type}s:")
-            [to_return.append(str(worker)) for worker in workers[worker_type]]
+            [to_return.append(str(animal)) for animal in workers[worker_type]]
 
         return "\n".join(to_return)
 

@@ -1,4 +1,4 @@
-import unittest
+import unit_test
 
 from project.drink import Drink
 from project.food import Food
@@ -6,7 +6,7 @@ from project.product import Product
 from project.product_repository import ProductRepository
 
 
-class Tests(unittest.TestCase):
+class Tests(unit_test.TestCase):
     def setUp(self):
         self.product = Product('product', 150)
         self.drink = Drink('drink')
@@ -77,4 +77,4 @@ class Tests(unittest.TestCase):
 
 
 if __name__ == "__main__":
-   unittest.main()
+   unit_test.main()
