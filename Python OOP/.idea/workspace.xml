@@ -4,24 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="[Skeleton]Encapsulation - Exercise - Program 01. Wild Cat Zoo">
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/zoo_better_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project_better_solution.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/unit_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/wild_cat_zoo_test.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Encapsulation - Exercise - Program 01. Wild Cat Zoo">
+      <change afterPath="$PROJECT_DIR$/encapsulation/p02_pizza_maker/pizza_maker_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p02_pizza_maker/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p02_pizza_maker/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p02_pizza_maker/project/dough.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p02_pizza_maker/project/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p02_pizza_maker/project/topping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p02_pizza_maker/unit_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/caretaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/caretaker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/cheetah.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/cheetah.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/keeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/keeper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/lion.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/lion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/tiger.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/tiger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/vet.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/vet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/worker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project/zoo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/p05_shop/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/p05_shop/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +65,49 @@
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.wild_cat_zoo_test">
+  <component name="RunManager" selected="Python.pizza_maker_test">
+    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p02_pizza_maker/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation/p02_pizza_maker/project/pizza.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pizza_maker_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p02_pizza_maker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation/p02_pizza_maker/pizza_maker_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,48 +192,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="unit_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\unit_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="wild_cat_zoo_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,25 +213,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zoo_better_solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in unit_test.py (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p02_pizza_maker" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project\zoo_better_solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/encapsulation/p02_pizza_maker/unit_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in unit_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -258,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pizza_maker_test" />
+        <item itemvalue="Python tests.Python tests in unit_test.py (1)" />
+        <item itemvalue="Python.pizza" />
         <item itemvalue="Python.wild_cat_zoo_test" />
         <item itemvalue="Python tests.Python tests in unit_test.py" />
-        <item itemvalue="Python.unit_test" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.zoo_better_solution" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657224126580</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Encapsulation - Exercise - Program 01. Wild Cat Zoo">
+      <created>1657289172838</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1657289172838</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,7 +475,8 @@
     <MESSAGE value="Inheritance - Exercise - Program 04. Need for Speed" />
     <MESSAGE value="[bugfixes] Inheritance - Exercise - Program 05. Shop" />
     <MESSAGE value="[Skeleton]Encapsulation - Exercise - Program 01. Wild Cat Zoo" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Skeleton]Encapsulation - Exercise - Program 01. Wild Cat Zoo" />
+    <MESSAGE value="Encapsulation - Exercise - Program 01. Wild Cat Zoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation - Exercise - Program 01. Wild Cat Zoo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
