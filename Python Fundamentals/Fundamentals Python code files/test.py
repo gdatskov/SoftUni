@@ -1,1 +1,2 @@
-print(4 == 4)
+asd = list("asd")
+print(asd)
