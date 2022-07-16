@@ -4,10 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Encapsulation - Exercise - Program 02. Pizza Maker">
-      <change afterPath="$PROJECT_DIR$/encapsulation/p03_football_team_generator/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p03_football_team_generator/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/p03_football_team_generator/project/team.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Encapsulation - Exercise - Program 03. Football team generator">
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p01_photo_album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/movie_world_test_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/dvd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/movie_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/beverage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/beverage/beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/beverage/coffee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/beverage/cold_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/beverage/hot_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/beverage/tea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/food/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/food/cake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/food/dessert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/food/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/food/main_dish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/food/salmon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/food/soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/food/starter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/project/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/p04_restaurant/restaurant_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pastebin_exam_results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pastebin_force.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -43,7 +66,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -61,7 +84,7 @@
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.football_team_test">
+  <component name="RunManager" selected="Python.p01_photo_album">
     <configuration name="football_team_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="p01_photo_album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p02_pizza_maker/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation/p02_pizza_maker/project/pizza.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_and_static_methods/p01_photo_album.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pizza_maker_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pastebin_exam_results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p02_pizza_maker" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation/p02_pizza_maker/pizza_maker_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pastebin_exam_results.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pastebin_force" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_steps_in_oop/p08_pokemon_battle/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\pokemon_battle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pastebin_force.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wild_cat_zoo_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="restaurant_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +240,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p04_restaurant" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/wild_cat_zoo_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation/p04_restaurant/restaurant_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,27 +253,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in unit_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p02_pizza_maker" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/encapsulation/p02_pizza_maker/unit_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p01_photo_album" />
+        <item itemvalue="Python.pastebin_exam_results" />
+        <item itemvalue="Python.pastebin_force" />
+        <item itemvalue="Python.restaurant_test" />
         <item itemvalue="Python.football_team_test" />
-        <item itemvalue="Python.pizza_maker_test" />
-        <item itemvalue="Python tests.Python tests in unit_test.py (1)" />
-        <item itemvalue="Python.pizza" />
-        <item itemvalue="Python.wild_cat_zoo_test" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657293219277</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Encapsulation - Exercise - Program 03. Football team generator">
+      <created>1657294812570</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1657294812570</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +478,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="First steps in OOP Exercise - Problem 01. Shop" />
     <MESSAGE value="First steps in OOP Exercise - Problem 02. Hero" />
     <MESSAGE value="First steps in OOP Exercise - Problem 03. Employee" />
     <MESSAGE value="(fix) First steps in OOP Exercise - Problem 03. Employee" />
@@ -487,10 +502,28 @@
     <MESSAGE value="[Skeleton]Encapsulation - Exercise - Program 01. Wild Cat Zoo" />
     <MESSAGE value="Encapsulation - Exercise - Program 01. Wild Cat Zoo" />
     <MESSAGE value="Encapsulation - Exercise - Program 02. Pizza Maker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation - Exercise - Program 02. Pizza Maker" />
+    <MESSAGE value="Encapsulation - Exercise - Program 03. Football team generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation - Exercise - Program 03. Football team generator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pastebin_force.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pastebin_force.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pastebin_exam_results.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
