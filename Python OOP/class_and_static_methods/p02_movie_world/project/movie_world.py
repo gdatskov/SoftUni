@@ -46,10 +46,11 @@ class MovieWorld:
         dvd = self.__find_dvd_by_id(dvd_id)
         if dvd in customer.rented_dvds:
             dvd.is_rented = False
+            customer.rented_dvds.remove(dvd)
             return f"{customer.name} has successfully returned {dvd.name}"
         return f"{customer.name} does not have that DVD"
 
-    def __str__(self):
+    def __repr__(self):
         to_return = []
         for customer in self.customers:
             to_return.append(str(customer))

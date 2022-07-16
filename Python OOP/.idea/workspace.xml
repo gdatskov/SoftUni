@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Class and static methods - Exercise - Program 01. Photo Album">
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/movie_world_test_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/dvd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/movie_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pastebin_exam_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pastebin_force.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Class and static methods - Exercise - Program 02. Movie World">
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/movie_world_unittest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/customer.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/customer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/dvd.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/dvd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/movie_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/movie_world.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,7 @@
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.movie_world_test_code">
+  <component name="RunManager" selected="Python tests.Python tests for movie_world_unittest.TestsMovieWorld.test_movie_world_return_dvd_success">
     <configuration name="movie_world_test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,69 +77,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/movie_world_test_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p01_photo_album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_and_static_methods/p01_photo_album.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pastebin_exam_results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pastebin_exam_results.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pastebin_force" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pastebin_force.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,34 +148,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="restaurant_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for movie_world_unittest.TestsMovieWorld" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/encapsulation/p04_restaurant" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation/p04_restaurant/restaurant_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;movie_world_unittest.TestsMovieWorld&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for movie_world_unittest.TestsMovieWorld.test_movie_world_repr" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;movie_world_unittest.TestsMovieWorld.test_movie_world_repr&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for movie_world_unittest.TestsMovieWorld.test_movie_world_return_dvd_success" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;movie_world_unittest.TestsMovieWorld.test_movie_world_return_dvd_success&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in movie_world_unittest.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/movie_world_unittest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for movie_world_unittest.TestsMovieWorld.test_movie_world_return_dvd_success" />
+        <item itemvalue="Python tests.Python tests for movie_world_unittest.TestsMovieWorld" />
+        <item itemvalue="Python tests.Python tests in movie_world_unittest.py" />
+        <item itemvalue="Python tests.Python tests for movie_world_unittest.TestsMovieWorld.test_movie_world_repr" />
         <item itemvalue="Python.movie_world_test_code" />
-        <item itemvalue="Python.p01_photo_album" />
-        <item itemvalue="Python.pastebin_exam_results" />
-        <item itemvalue="Python.pastebin_force" />
-        <item itemvalue="Python.restaurant_test" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657996259470</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Class and static methods - Exercise - Program 02. Movie World">
+      <created>1658004486557</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1658004486557</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -473,7 +450,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="(fix) First steps in OOP Exercise - Problem 03. Employee" />
     <MESSAGE value="(fix) First steps in OOP Exercise - Problem 04. Cup" />
     <MESSAGE value="First steps in OOP Exercise - Problem 05. Flower" />
     <MESSAGE value="First steps in OOP Exercise - Problem 06. Steam User" />
@@ -498,7 +474,8 @@
     <MESSAGE value="Encapsulation - Exercise - Program 03. Football team generator" />
     <MESSAGE value="Encapsulation - Exercise - Program 04. Restaurant" />
     <MESSAGE value="Class and static methods - Exercise - Program 01. Photo Album" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods - Exercise - Program 01. Photo Album" />
+    <MESSAGE value="Class and static methods - Exercise - Program 02. Movie World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods - Exercise - Program 02. Movie World" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

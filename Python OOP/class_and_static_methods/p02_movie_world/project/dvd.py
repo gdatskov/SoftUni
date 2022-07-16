@@ -17,7 +17,7 @@ class DVD:
         month = time.strftime("%B")
         return cls(name, id, year, month, age_restriction)
 
-    def __str__(self):
+    def __repr__(self):
         status = "rented" if self.is_rented else "not rented"
         return f"{self.id}: {self.name} ({self.creation_month} {self.creation_year}) " \
                f"has age restriction {self.age_restriction}. Status: {status}"
