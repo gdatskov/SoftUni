@@ -4,17 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="[bugfix]Class and static methods - Exercise - Program 02. Movie World">
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/document_management_test_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/document_management_unittest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project/category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project/document.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project/topic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Class and static methods - Exercise - Program 03. Document Management">
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/gym_test_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/gym_unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/equipment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/exercise_plan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/gym.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/subscription.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/vehicle_83_100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/vehicle_unittest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/movie_world_unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/movie_world_unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project/document.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project/document.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,98 +66,14 @@
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\class_and_static_methods\p02_movie_world" />
       <recent name="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project" />
       <recent name="D:\SoftUni\Python OOP\inheritance\p05_shop" />
       <recent name="D:\SoftUni\Python OOP\inheritance\p01_person" />
       <recent name="D:\SoftUni\Python OOP\classes_and_instances\lab" />
-      <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for document_management_unittest.TestDocumentManagement.test_document_add_tag">
-    <configuration name="document" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project/document.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="document_management_test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods/p03_document_management" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_and_static_methods/p03_document_management/document_management_test_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_steps_in_oop/p08_pokemon_battle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project\pokemon_battle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_steps_in_oop/p08_pokemon_battle/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\pokemon_battle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.vehicle">
     <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,55 +95,125 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for document_management_unittest.TestDocumentManagement" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polymorphism_and_abstraction/vehicle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vehicle_83_100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\polymorphism_and_abstraction\vehicle_83_100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for polymorphism_and_abstraction.vehicle_83_100" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods/p03_document_management" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;document_management_unittest.TestDocumentManagement&quot;" />
+      <option name="_new_target" value="&quot;polymorphism_and_abstraction.vehicle_83_100&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for document_management_unittest.TestDocumentManagement.test_document_add_tag" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for polymorphism_and_abstraction.vehicle_83_100" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods/p03_document_management" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;document_management_unittest.TestDocumentManagement.test_document_add_tag&quot;" />
+      <option name="_new_target" value="&quot;polymorphism_and_abstraction.vehicle_83_100&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in document_management_unittest.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for vehicle.VehiclesTests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods/p03_document_management" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/class_and_static_methods/p03_document_management/document_management_unittest.py&quot;" />
+      <option name="_new_target" value="&quot;vehicle.VehiclesTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in gym_unittest.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods/p04_gym" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/class_and_static_methods/p04_gym/gym_unittest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in vehicle_83_100.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/polymorphism_and_abstraction/vehicle_83_100.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for document_management_unittest.TestDocumentManagement.test_document_add_tag" />
-        <item itemvalue="Python tests.Python tests for document_management_unittest.TestDocumentManagement" />
-        <item itemvalue="Python.document" />
-        <item itemvalue="Python.document_management_test_code" />
-        <item itemvalue="Python tests.Python tests in document_management_unittest.py" />
+        <item itemvalue="Python.vehicle" />
+        <item itemvalue="Python.vehicle_83_100" />
+        <item itemvalue="Python tests.Python tests for polymorphism_and_abstraction.vehicle_83_100" />
+        <item itemvalue="Python tests.Python tests in vehicle_83_100.py" />
+        <item itemvalue="Python tests.Python tests for polymorphism_and_abstraction.vehicle_83_100" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658005432426</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Class and static methods - Exercise - Program 03. Document Management">
+      <created>1658009689507</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1658009689507</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +467,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="First steps in OOP Exercise - Problem 05. Flower" />
     <MESSAGE value="First steps in OOP Exercise - Problem 06. Steam User" />
     <MESSAGE value="First steps in OOP Exercise - Problem 07. Programmer" />
     <MESSAGE value="First steps in OOP Exercise - renaming folder" />
@@ -494,7 +491,8 @@
     <MESSAGE value="Class and static methods - Exercise - Program 01. Photo Album" />
     <MESSAGE value="Class and static methods - Exercise - Program 02. Movie World" />
     <MESSAGE value="[bugfix]Class and static methods - Exercise - Program 02. Movie World" />
-    <option name="LAST_COMMIT_MESSAGE" value="[bugfix]Class and static methods - Exercise - Program 02. Movie World" />
+    <MESSAGE value="Class and static methods - Exercise - Program 03. Document Management" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods - Exercise - Program 03. Document Management" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

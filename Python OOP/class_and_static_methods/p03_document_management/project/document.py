@@ -48,11 +48,3 @@ class Document:
     def __repr__(self):
         return f"Document {self.id}: {self.file_name}; " \
                f"category {self.category_id}, topic {self.topic_id}, tags: {', '.join(self.tags)}"
-
-
-doc = Document.from_instances(1, Category(1, "C"), Topic(1, "T", "C:\\user"), "Doc")
-print(doc.id, 1)
-print(doc.category_id, 1)
-print(doc.topic_id, 1)
-print(doc.file_name, "Doc")
-print(doc.tags, [])
