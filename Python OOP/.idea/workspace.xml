@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Class and static methods - Exercise - Program 03. Document Management">
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/gym_test_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/gym_unittest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/equipment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/exercise_plan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/gym.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/subscription.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/project/trainer.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Class and static methods - Exercise - Program 04. Gym">
+      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/vehicle.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/vehicle_83_100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/vehicle_unittest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/project/movie_world_unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/movie_world_unittest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project/document.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/project/document.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +42,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\polymorphism_and_abstraction" />
       <recent name="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop" />
@@ -450,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658009689507</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Class and static methods - Exercise - Program 04. Gym">
+      <created>1658079022630</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1658079022630</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="First steps in OOP Exercise - Problem 06. Steam User" />
     <MESSAGE value="First steps in OOP Exercise - Problem 07. Programmer" />
     <MESSAGE value="First steps in OOP Exercise - renaming folder" />
     <MESSAGE value="First steps in OOP Exercise - Problem 08. Pokemon Battle" />
@@ -492,7 +486,8 @@
     <MESSAGE value="Class and static methods - Exercise - Program 02. Movie World" />
     <MESSAGE value="[bugfix]Class and static methods - Exercise - Program 02. Movie World" />
     <MESSAGE value="Class and static methods - Exercise - Program 03. Document Management" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods - Exercise - Program 03. Document Management" />
+    <MESSAGE value="Class and static methods - Exercise - Program 04. Gym" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods - Exercise - Program 04. Gym" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
