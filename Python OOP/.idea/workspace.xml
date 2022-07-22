@@ -4,15 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Polymorphism and abstraction - Exercise - Program 04. Wild Farm">
-      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/p05_animals/animals_test_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/p05_animals/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/p05_animals/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/p05_animals/project/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/p05_animals/project/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/p05_animals/project/kitten.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism_and_abstraction/p05_animals/project/tomcat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Polymorphism and abstraction - Exercise - Program 05. Animals">
+      <change afterPath="$PROJECT_DIR$/SOLID/Exercise/exercise-resources/emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Exercise/exercise-resources/prisoner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Exercise/exercise-resources/shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Exercise/exercise-resources/workers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Exercise/exercise-resources/workers_updated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/01_SRP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/01_SRP/books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/02_OCP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/02_OCP/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/03_LSP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/03_LSP/ducks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/04_ISP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/04_ISP/entertainment_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/05_DIP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/05_DIP/print_books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/01_SRP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/01_SRP/books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/02_OCP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/02_OCP/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/03_LSP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/03_LSP/ducks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/04_ISP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/04_ISP/entertainment_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/05_DIP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/05_DIP/print_books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/SOLID LAB.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/exercise-resources.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_generators/p01_take_skip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +88,7 @@
       <recent name="D:\SoftUni\Python OOP\classes_and_instances\lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.animals_test_code">
+  <component name="RunManager" selected="Python.p01_take_skip">
     <configuration name="animals_test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="food" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="books" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +118,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction/p04_wild_farm/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SOLID/Lab/01_SRP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polymorphism_and_abstraction/p04_wild_farm/project/food.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SOLID/Lab/01_SRP/books.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p01_take_skip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterators_generators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterators_generators/p01_take_skip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,27 +173,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pokemon_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\pokemon_battle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="wild_farm_test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,55 +194,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for polymorphism_and_abstraction.vehicle_83_100" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;polymorphism_and_abstraction.vehicle_83_100&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for vehicle.VehiclesTests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;vehicle.VehiclesTests&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in p02_groups.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/polymorphism_and_abstraction/p02_groups.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p01_take_skip" />
+        <item itemvalue="Python.books" />
+        <item itemvalue="Python.p03_account" />
         <item itemvalue="Python.animals_test_code" />
         <item itemvalue="Python.wild_farm_test_code" />
-        <item itemvalue="Python.food" />
-        <item itemvalue="Python.p03_account" />
-        <item itemvalue="Python tests.Python tests in p02_groups.py" />
       </list>
     </recent_temporary>
   </component>
@@ -501,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658089487876</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Polymorphism and abstraction - Exercise - Program 05. Animals">
+      <created>1658090628650</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1658090628650</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -518,7 +503,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Classes and instances - Exercise - Program 05. To-do list" />
     <MESSAGE value="Classes and instances - Exercise - Program 06. Guild System" />
     <MESSAGE value="Classes and instances - Exercise - Program 07. Spoopify" />
     <MESSAGE value="Classes and instances - Exercise - Program 08. Library" />
@@ -543,7 +527,8 @@
     <MESSAGE value="Polymorphism and abstraction - Exercise - Program 02. Groups" />
     <MESSAGE value="Polymorphism and abstraction - Exercise - Program 03. Account" />
     <MESSAGE value="Polymorphism and abstraction - Exercise - Program 04. Wild Farm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction - Exercise - Program 04. Wild Farm" />
+    <MESSAGE value="Polymorphism and abstraction - Exercise - Program 05. Animals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction - Exercise - Program 05. Animals" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -562,6 +547,11 @@
           <url>file://$PROJECT_DIR$/pastebin_exam_results.py</url>
           <line>2</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterators_generators/p01_take_skip.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
