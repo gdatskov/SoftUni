@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Decorators - Exercise - Program 01. Log">
-      <change afterPath="$PROJECT_DIR$/decorators/p02_even_parameters.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Decorators - Exercise - Program 02. Even Parameters">
+      <change afterPath="$PROJECT_DIR$/decorators/p03_bold_italic_underline.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <recent name="D:\SoftUni\Python OOP\classes_and_instances\lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p02_even_parameters">
+  <component name="RunManager" selected="Python.p03_bold_italic_underline">
     <configuration name="p01_logged" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p08_prime_numbers2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="p03_bold_italic_underline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterators_generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterators_generators/p08_prime_numbers2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators/p03_bold_italic_underline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p03_bold_italic_underline" />
         <item itemvalue="Python.p02_even_parameters" />
         <item itemvalue="Python.p01_logged" />
         <item itemvalue="Python tests.Python tests in p01_logged.py" />
         <item itemvalue="Python.p09_possible_permutations" />
-        <item itemvalue="Python.p08_prime_numbers2" />
       </list>
     </recent_temporary>
   </component>
@@ -178,13 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656524982531</updated>
-    </task>
-    <task id="LOCAL-00003" summary="First steps in OOP Exercise - Problem 03. Employee">
-      <created>1656531428124</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1656531428124</updated>
     </task>
     <task id="LOCAL-00004" summary="(fix) First steps in OOP Exercise - Problem 03. Employee">
       <created>1656532246661</created>
@@ -522,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658617427413</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Decorators - Exercise - Program 02. Even Parameters">
+      <created>1658618351897</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1658618351897</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +539,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Encapsulation - Exercise - Program 03. Football team generator" />
     <MESSAGE value="Encapsulation - Exercise - Program 04. Restaurant" />
     <MESSAGE value="Class and static methods - Exercise - Program 01. Photo Album" />
     <MESSAGE value="Class and static methods - Exercise - Program 02. Movie World" />
@@ -564,7 +563,8 @@
     <MESSAGE value="Iterators and Generators - Exercise - Program 08. Prime Numbers" />
     <MESSAGE value="Iterators and Generators - Exercise - Program 09. Possible permutations" />
     <MESSAGE value="Decorators - Exercise - Program 01. Log" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators - Exercise - Program 01. Log" />
+    <MESSAGE value="Decorators - Exercise - Program 02. Even Parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorators - Exercise - Program 02. Even Parameters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
