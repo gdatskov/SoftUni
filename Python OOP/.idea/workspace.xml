@@ -4,35 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Polymorphism and abstraction - Exercise - Program 05. Animals">
-      <change afterPath="$PROJECT_DIR$/SOLID/Exercise/exercise-resources/emails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Exercise/exercise-resources/prisoner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Exercise/exercise-resources/shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Exercise/exercise-resources/workers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Exercise/exercise-resources/workers_updated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/01_SRP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/01_SRP/books.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/02_OCP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/02_OCP/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/03_LSP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/03_LSP/ducks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/04_ISP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/04_ISP/entertainment_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/05_DIP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/05_DIP/print_books.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/01_SRP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/01_SRP/books.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/02_OCP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/02_OCP/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/03_LSP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/03_LSP/ducks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/04_ISP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/04_ISP/entertainment_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/05_DIP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/Lab/SOLID LAB/05_DIP/print_books.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/SOLID LAB.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/exercise-resources.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators_generators/p01_take_skip.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Iterators and Generators - Exercise - Program 08. Prime Numbers">
+      <change afterPath="$PROJECT_DIR$/iterators_generators/p09_possible_permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_generators/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,16 +43,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/iterators_generators" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\iterators_generators" />
       <recent name="D:\SoftUni\Python OOP\polymorphism_and_abstraction" />
       <recent name="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop" />
-      <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\SoftUni\Python OOP\class_and_static_methods\p02_movie_world" />
@@ -88,50 +62,8 @@
       <recent name="D:\SoftUni\Python OOP\classes_and_instances\lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p01_take_skip">
-    <configuration name="animals_test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction/p05_animals" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polymorphism_and_abstraction/p05_animals/animals_test_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="books" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SOLID/Lab/01_SRP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SOLID/Lab/01_SRP/books.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p01_take_skip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.p09_possible_permutations">
+    <configuration name="p06_fibonacci_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterators_generators/p01_take_skip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterators_generators/p06_fibonacci_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p03_account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="p07_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterators_generators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polymorphism_and_abstraction/p03_account.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterators_generators/p07_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wild_farm_test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="p08_prime_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,11 +113,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism_and_abstraction/p04_wild_farm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterators_generators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polymorphism_and_abstraction/p04_wild_farm/wild_farm_test_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterators_generators/p08_prime_numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p08_prime_numbers2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterators_generators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterators_generators/p08_prime_numbers2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p09_possible_permutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterators_generators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterators_generators/p09_possible_permutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.p01_take_skip" />
-        <item itemvalue="Python.books" />
-        <item itemvalue="Python.p03_account" />
-        <item itemvalue="Python.animals_test_code" />
-        <item itemvalue="Python.wild_farm_test_code" />
+        <item itemvalue="Python.p09_possible_permutations" />
+        <item itemvalue="Python.p08_prime_numbers2" />
+        <item itemvalue="Python.p08_prime_numbers" />
+        <item itemvalue="Python.p07_reader" />
+        <item itemvalue="Python.p06_fibonacci_generator" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +460,77 @@
       <option name="project" value="LOCAL" />
       <updated>1658090628650</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Iterators and Generators - Exercise - Program 01. Take skip">
+      <created>1658520654950</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1658520654950</updated>
+    </task>
+    <task id="LOCAL-00041" summary="SOLID - Exercise">
+      <created>1658520724820</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1658520724820</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Iterators and Generators - Exercise - Program 02. Dictionary iterator">
+      <created>1658595113979</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1658595113979</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Iterators and Generators - Exercise - Program 03. Countdown iterator">
+      <created>1658595389491</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1658595389491</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Iterators and Generators - Exercise - Program 04. Sequence repeat">
+      <created>1658596824956</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1658596824956</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Iterators and Generators - Exercise - Program 05. Take halves generator">
+      <created>1658599164854</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1658599164854</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Iterators and Generators - Exercise - Program 06. Fibonacci generator">
+      <created>1658600472527</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1658600472527</updated>
+    </task>
+    <task id="LOCAL-00047" summary="[no list solution]Iterators and Generators - Exercise - Program 06. Fibonacci generator">
+      <created>1658600934058</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1658600934058</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Iterators and Generators - Exercise - Program 07. Reader generator">
+      <created>1658601726251</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1658601726251</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Iterators and Generators - Exercise - Program 08. Prime Numbers">
+      <created>1658603864438</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1658603864438</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,16 +547,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Classes and instances - Exercise - Program 06. Guild System" />
-    <MESSAGE value="Classes and instances - Exercise - Program 07. Spoopify" />
-    <MESSAGE value="Classes and instances - Exercise - Program 08. Library" />
-    <MESSAGE value="Inheritance - Exercise - Program 01. Person" />
-    <MESSAGE value="Inheritance - Exercise - Program 02. Zoo" />
-    <MESSAGE value="Inheritance - Exercise - Program 03. Players and monsters" />
-    <MESSAGE value="[answer to why it works] Inheritance - Exercise - Program 03. Players and monsters" />
-    <MESSAGE value="Inheritance - Exercise - Program 04. Need for Speed" />
-    <MESSAGE value="[bugfixes] Inheritance - Exercise - Program 05. Shop" />
-    <MESSAGE value="[Skeleton]Encapsulation - Exercise - Program 01. Wild Cat Zoo" />
     <MESSAGE value="Encapsulation - Exercise - Program 01. Wild Cat Zoo" />
     <MESSAGE value="Encapsulation - Exercise - Program 02. Pizza Maker" />
     <MESSAGE value="Encapsulation - Exercise - Program 03. Football team generator" />
@@ -528,7 +562,17 @@
     <MESSAGE value="Polymorphism and abstraction - Exercise - Program 03. Account" />
     <MESSAGE value="Polymorphism and abstraction - Exercise - Program 04. Wild Farm" />
     <MESSAGE value="Polymorphism and abstraction - Exercise - Program 05. Animals" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction - Exercise - Program 05. Animals" />
+    <MESSAGE value="Iterators and Generators - Exercise - Program 01. Take skip" />
+    <MESSAGE value="SOLID - Exercise" />
+    <MESSAGE value="Iterators and Generators - Exercise - Program 02. Dictionary iterator" />
+    <MESSAGE value="Iterators and Generators - Exercise - Program 03. Countdown iterator" />
+    <MESSAGE value="Iterators and Generators - Exercise - Program 04. Sequence repeat" />
+    <MESSAGE value="Iterators and Generators - Exercise - Program 05. Take halves generator" />
+    <MESSAGE value="Iterators and Generators - Exercise - Program 06. Fibonacci generator" />
+    <MESSAGE value="[no list solution]Iterators and Generators - Exercise - Program 06. Fibonacci generator" />
+    <MESSAGE value="Iterators and Generators - Exercise - Program 07. Reader generator" />
+    <MESSAGE value="Iterators and Generators - Exercise - Program 08. Prime Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterators and Generators - Exercise - Program 08. Prime Numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -547,11 +591,6 @@
           <url>file://$PROJECT_DIR$/pastebin_exam_results.py</url>
           <line>2</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/iterators_generators/p01_take_skip.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
