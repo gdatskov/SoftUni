@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Decorators - Exercise - Program 06. HTML Tags">
-      <change afterPath="$PROJECT_DIR$/decorators/p08_store_results.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Decorators - Exercise - Program 07*. Store Results">
+      <change afterPath="$PROJECT_DIR$/decorators/p08_execution_time.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorators/p08_store_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorators/p07_store_results.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,28 +62,7 @@
       <recent name="D:\SoftUni\Python OOP\classes_and_instances\lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p06_html_tags">
-    <configuration name="p03_bold_italic_underline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators/p03_bold_italic_underline.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.p08_execution_time">
     <configuration name="p04_type_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="p07_store_results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +138,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators/test.py" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\decorators\p07_store_results.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p08_execution_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators/p08_execution_time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p08_execution_time" />
+        <item itemvalue="Python.p07_store_results" />
         <item itemvalue="Python.p06_html_tags" />
         <item itemvalue="Python.p05_cache" />
         <item itemvalue="Python.p04_type_check" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.p03_bold_italic_underline" />
       </list>
     </recent_temporary>
   </component>
@@ -185,13 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656524982531</updated>
-    </task>
-    <task id="LOCAL-00008" summary="First steps in OOP Exercise - Problem 07. Programmer">
-      <created>1656535085492</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1656535085492</updated>
     </task>
     <task id="LOCAL-00009" summary="First steps in OOP Exercise - renaming folder">
       <created>1656541416324</created>
@@ -529,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658623243771</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Decorators - Exercise - Program 07*. Store Results">
+      <created>1658624410795</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1658624410795</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,7 +547,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Class and static methods - Exercise - Program 03. Document Management" />
     <MESSAGE value="Class and static methods - Exercise - Program 04. Gym" />
     <MESSAGE value="Polymorphism and abstraction - Exercise - Program 01. Vehicle" />
     <MESSAGE value="[rename]Polymorphism and abstraction - Exercise - Program 01. Vehicle" />
@@ -571,7 +571,8 @@
     <MESSAGE value="Decorators - Exercise - Program 04. Type check" />
     <MESSAGE value="Decorators - Exercise - Program 05. Cache" />
     <MESSAGE value="Decorators - Exercise - Program 06. HTML Tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators - Exercise - Program 06. HTML Tags" />
+    <MESSAGE value="Decorators - Exercise - Program 07*. Store Results" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorators - Exercise - Program 07*. Store Results" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
