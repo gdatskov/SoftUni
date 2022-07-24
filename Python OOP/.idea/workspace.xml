@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Decorators - Exercise - Program 04. Type check">
-      <change afterPath="$PROJECT_DIR$/decorators/p05_cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Decorators - Exercise - Program 05. Cache">
+      <change afterPath="$PROJECT_DIR$/decorators/p06_html_tags.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,28 +60,7 @@
       <recent name="D:\SoftUni\Python OOP\classes_and_instances\lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p05_cache">
-    <configuration name="p02_even_parameters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators/p02_even_parameters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.p06_html_tags">
     <configuration name="p03_bold_italic_underline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,6 +124,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="p06_html_tags" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators/p06_html_tags.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p06_html_tags" />
         <item itemvalue="Python.p05_cache" />
         <item itemvalue="Python.p04_type_check" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.p03_bold_italic_underline" />
-        <item itemvalue="Python.p02_even_parameters" />
       </list>
     </recent_temporary>
   </component>
@@ -185,13 +184,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656524982531</updated>
-    </task>
-    <task id="LOCAL-00006" summary="First steps in OOP Exercise - Problem 05. Flower">
-      <created>1656533403418</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1656533403418</updated>
     </task>
     <task id="LOCAL-00007" summary="First steps in OOP Exercise - Problem 06. Steam User">
       <created>1656534060275</created>
@@ -529,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658621290107</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Decorators - Exercise - Program 05. Cache">
+      <created>1658622749020</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1658622749020</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,7 +545,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Class and static methods - Exercise - Program 02. Movie World" />
     <MESSAGE value="[bugfix]Class and static methods - Exercise - Program 02. Movie World" />
     <MESSAGE value="Class and static methods - Exercise - Program 03. Document Management" />
     <MESSAGE value="Class and static methods - Exercise - Program 04. Gym" />
@@ -571,7 +569,8 @@
     <MESSAGE value="Decorators - Exercise - Program 02. Even Parameters" />
     <MESSAGE value="Decorators - Exercise - Program 02. Bold, Italic, Underline" />
     <MESSAGE value="Decorators - Exercise - Program 04. Type check" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators - Exercise - Program 04. Type check" />
+    <MESSAGE value="Decorators - Exercise - Program 05. Cache" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorators - Exercise - Program 05. Cache" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
