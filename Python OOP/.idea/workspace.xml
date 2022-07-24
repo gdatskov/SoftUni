@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Decorators - Exercise - Program 05. Cache">
-      <change afterPath="$PROJECT_DIR$/decorators/p06_html_tags.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Decorators - Exercise - Program 06. HTML Tags">
+      <change afterPath="$PROJECT_DIR$/decorators/p08_store_results.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,13 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656524982531</updated>
-    </task>
-    <task id="LOCAL-00007" summary="First steps in OOP Exercise - Problem 06. Steam User">
-      <created>1656534060275</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1656534060275</updated>
     </task>
     <task id="LOCAL-00008" summary="First steps in OOP Exercise - Problem 07. Programmer">
       <created>1656535085492</created>
@@ -528,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658622749020</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Decorators - Exercise - Program 06. HTML Tags">
+      <created>1658623243771</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1658623243771</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -545,7 +546,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="[bugfix]Class and static methods - Exercise - Program 02. Movie World" />
     <MESSAGE value="Class and static methods - Exercise - Program 03. Document Management" />
     <MESSAGE value="Class and static methods - Exercise - Program 04. Gym" />
     <MESSAGE value="Polymorphism and abstraction - Exercise - Program 01. Vehicle" />
@@ -570,7 +570,8 @@
     <MESSAGE value="Decorators - Exercise - Program 02. Bold, Italic, Underline" />
     <MESSAGE value="Decorators - Exercise - Program 04. Type check" />
     <MESSAGE value="Decorators - Exercise - Program 05. Cache" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators - Exercise - Program 05. Cache" />
+    <MESSAGE value="Decorators - Exercise - Program 06. HTML Tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorators - Exercise - Program 06. HTML Tags" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
