@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Decorators - Exercise - Program 08. Execution time">
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p01_test_worker/Tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p01_test_worker/Tests/worker_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p01_test_worker/test_worker.py" afterDir="false" />
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="UnitTest - Lab - Program 01. Worker Tests">
+      <change afterPath="$PROJECT_DIR$/unittest/lab/p02_test_cat/Tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/lab/p02_test_cat/Tests/cat_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/lab/p02_test_cat/test_cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/lab/p03_list/Tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/lab/p03_list/Tests/integer_list_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/lab/p03_list/integer_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/lab/p04_car/Tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/lab/p04_car/Tests/tests_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/lab/p04_car/car_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/lab/p04_car/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,103 +52,110 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/iterators_generators" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/unittest/lab" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\unittest\lab" />
       <recent name="D:\SoftUni\Python OOP\iterators_generators" />
       <recent name="D:\SoftUni\Python OOP\polymorphism_and_abstraction" />
       <recent name="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project" />
       <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project" />
-      <recent name="D:\SoftUni\Python OOP\first_steps_in_oop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\unittest\lab\p04_car" />
       <recent name="D:\SoftUni\Python OOP\class_and_static_methods\p02_movie_world" />
       <recent name="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project" />
       <recent name="D:\SoftUni\Python OOP\inheritance\p05_shop" />
       <recent name="D:\SoftUni\Python OOP\inheritance\p01_person" />
-      <recent name="D:\SoftUni\Python OOP\classes_and_instances\lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for worker_tests.WorkerTests">
-    <configuration name="Python tests for worker_tests.WorkerTests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for tests_car.CarTests.test_drive">
+    <configuration name="car_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p04_car" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest/lab/p04_car/car_car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests_car.CarTests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p01_test_worker/Tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p04_car/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;worker_tests.WorkerTests&quot;" />
+      <option name="_new_target" value="&quot;tests_car.CarTests&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for worker_tests.WorkerTests.test_energy_decrement__when_work_method_is_called__expect_decrease_with_one" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for tests_car.CarTests.test_drive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p01_test_worker/Tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p04_car/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;worker_tests.WorkerTests.test_energy_decrement__when_work_method_is_called__expect_decrease_with_one&quot;" />
+      <option name="_new_target" value="&quot;tests_car.CarTests.test_drive&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for worker_tests.WorkerTests.test_error_raise__when_worker_tries_to_work_with_zero_or_negative_energy__expect_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for tests_car.CarTests.test_make_setter" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p01_test_worker/Tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p04_car/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;worker_tests.WorkerTests.test_error_raise__when_worker_tries_to_work_with_zero_or_negative_energy__expect_exception&quot;" />
+      <option name="_new_target" value="&quot;tests_car.CarTests.test_make_setter&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for worker_tests.WorkerTests.test_get_info_string__when_get_info_method_is_called__expect_valid" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in tests_car.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p01_test_worker/Tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p04_car/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;worker_tests.WorkerTests.test_get_info_string__when_get_info_method_is_called__expect_valid&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in worker_tests.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p01_test_worker/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest/lab/p01_test_worker/Tests/worker_tests.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest/lab/p04_car/Tests/tests_car.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for worker_tests.WorkerTests" />
-        <item itemvalue="Python tests.Python tests in worker_tests.py" />
-        <item itemvalue="Python tests.Python tests for worker_tests.WorkerTests.test_error_raise__when_worker_tries_to_work_with_zero_or_negative_energy__expect_exception" />
-        <item itemvalue="Python tests.Python tests for worker_tests.WorkerTests.test_get_info_string__when_get_info_method_is_called__expect_valid" />
-        <item itemvalue="Python tests.Python tests for worker_tests.WorkerTests.test_energy_decrement__when_work_method_is_called__expect_decrease_with_one" />
+        <item itemvalue="Python tests.Python tests for tests_car.CarTests.test_drive" />
+        <item itemvalue="Python tests.Python tests in tests_car.py" />
+        <item itemvalue="Python.car_car" />
+        <item itemvalue="Python tests.Python tests for tests_car.CarTests" />
+        <item itemvalue="Python tests.Python tests for tests_car.CarTests.test_make_setter" />
       </list>
     </recent_temporary>
   </component>
@@ -152,13 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656524982531</updated>
-    </task>
-    <task id="LOCAL-00010" summary="First steps in OOP Exercise - Problem 08. Pokemon Battle">
-      <created>1656579974409</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1656579974409</updated>
     </task>
     <task id="LOCAL-00011" summary="Classes and instances - Lab exercises">
       <created>1656585643163</created>
@@ -496,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658625575613</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="UnitTest - Lab - Program 01. Worker Tests">
+      <created>1658708732094</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1658708732095</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -513,7 +528,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Polymorphism and abstraction - Exercise - Program 01. Vehicle" />
     <MESSAGE value="[rename]Polymorphism and abstraction - Exercise - Program 01. Vehicle" />
     <MESSAGE value="Polymorphism and abstraction - Exercise - Program 02. Groups" />
     <MESSAGE value="Polymorphism and abstraction - Exercise - Program 03. Account" />
@@ -538,7 +552,8 @@
     <MESSAGE value="Decorators - Exercise - Program 06. HTML Tags" />
     <MESSAGE value="Decorators - Exercise - Program 07*. Store Results" />
     <MESSAGE value="Decorators - Exercise - Program 08. Execution time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators - Exercise - Program 08. Execution time" />
+    <MESSAGE value="UnitTest - Lab - Program 01. Worker Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="UnitTest - Lab - Program 01. Worker Tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
