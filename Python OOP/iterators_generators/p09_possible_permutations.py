@@ -36,11 +36,11 @@ def possible_permutations(iterable, r=None):
 
 # expected result:
 """
-[1, 2, 3]
-[1, 3, 2]
-[2, 1, 3]
-[2, 3, 1]
-[3, 1, 2]
-[3, 2, 1]
+[aug_22, 2, 3]
+[aug_22, 3, 2]
+[2, aug_22, 3]
+[2, 3, aug_22]
+[3, aug_22, 2]
+[3, 2, aug_22]
 
 """

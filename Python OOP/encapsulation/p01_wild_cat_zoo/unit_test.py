@@ -192,7 +192,7 @@ class Tests(unittest.TestCase):
         z.add_animal(Cheetah("Chi", "Female", 2), 100)
         res = z.animals_status()
         self.assertEqual(res,
-                         "You have 3 animals\n----- 1 Lions:\nName: Leo, Age: 3, Gender: Male\n----- 1 Tigers:\nName: Tigy, Age: 4, Gender: Female\n----- 1 Cheetahs:\nName: Chi, Age: 2, Gender: Female")
+                         "You have 3 animals\n----- aug_22 Lions:\nName: Leo, Age: 3, Gender: Male\n----- aug_22 Tigers:\nName: Tigy, Age: 4, Gender: Female\n----- aug_22 Cheetahs:\nName: Chi, Age: 2, Gender: Female")
 
     def test_worker_status(self):
         z = Zoo("My Zoo", 500, 3, 3)
@@ -201,7 +201,7 @@ class Tests(unittest.TestCase):
         z.hire_worker(Caretaker("Chi", 24, 100))
         res = z.workers_status()
         self.assertEqual(res,
-                         "You have 3 workers\n----- 1 Keepers:\nName: Tigy, Age: 40, Salary: 100\n----- 1 Caretakers:\nName: Chi, Age: 24, Salary: 100\n----- 1 Vets:\nName: Leo, Age: 35, Salary: 100")
+                         "You have 3 workers\n----- aug_22 Keepers:\nName: Tigy, Age: 40, Salary: 100\n----- aug_22 Caretakers:\nName: Chi, Age: 24, Salary: 100\n----- aug_22 Vets:\nName: Leo, Age: 35, Salary: 100")
 
 
 if __name__ == "__main__":

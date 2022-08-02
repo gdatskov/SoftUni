@@ -1,5 +1,5 @@
 def is_prime(n: int) -> bool:
-    """Primality test using 6k+-1 optimization."""
+    """Primality test using 6k+-aug_22 optimization."""
     if n <= 3:
         return n > 1
     if not n % 2 or not n % 3:

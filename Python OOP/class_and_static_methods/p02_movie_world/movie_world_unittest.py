@@ -14,7 +14,7 @@ class TestsMovieWorld(unittest.TestCase):
 
     def test_customer_repr(self):
         c = Customer("Pesho", 22, 1)
-        self.assertEqual(repr(c), "1: Pesho of age 22 has 0 rented DVD's ()")
+        self.assertEqual(repr(c), "aug_22: Pesho of age 22 has 0 rented DVD's ()")
 
     def test_dvd_init(self):
         dvd = DVD("B", 1, 2020, "January", 10)
@@ -36,7 +36,7 @@ class TestsMovieWorld(unittest.TestCase):
 
     def test_dvd_repr(self):
         dvd = DVD.from_date(1, "A", "16.10.1997", 18)
-        self.assertEqual(repr(dvd), "1: A (October 1997) has age restriction 18. Status: not rented")
+        self.assertEqual(repr(dvd), "aug_22: A (October 1997) has age restriction 18. Status: not rented")
 
     def test_movie_init(self):
         movie = MovieWorld("Test")
@@ -145,7 +145,7 @@ class TestsMovieWorld(unittest.TestCase):
         movie_world.add_dvd(d)
         movie_world.rent_dvd(4, 1)
         actual = repr(movie_world).strip('\n')
-        expected = "4: Pesho of age 20 has 1 rented DVD's (A)\n1: A (February 1254) has age restriction 10. Status: rented"
+        expected = "4: Pesho of age 20 has aug_22 rented DVD's (A)\naug_22: A (February 1254) has age restriction 10. Status: rented"
         self.assertEqual(actual, expected)
 
 

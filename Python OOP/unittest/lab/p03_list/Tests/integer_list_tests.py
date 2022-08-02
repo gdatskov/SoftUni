@@ -18,7 +18,7 @@ class IntegerListTests(unittest.TestCase):
     def test_add__when_adding__expect_to_return_the_list_or_throw_value_error_if_invalid_entry(self):
         test_integer_list = IntegerList()
         lis = [1]
-        invalid_values = ["1", None, True, False]
+        invalid_values = ["aug_22", None, True, False]
 
         self.assertEqual(lis, test_integer_list.add(1))
 
@@ -68,7 +68,7 @@ class IntegerListTests(unittest.TestCase):
         sample_args = [1, 2, 3]
         valid_idx = len(sample_args) - 1
         invalid_idx = len(sample_args)
-        invalid_values = ["1", None, True, False]
+        invalid_values = ["aug_22", None, True, False]
         sample_value = sample_args[-1] + 1
         expected_list = [1, 2, sample_value, 3]
         test_sample = IntegerList(*sample_args)

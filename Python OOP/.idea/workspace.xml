@@ -5,18 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="UnitTest - Lab - Program 01. Worker Tests">
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p02_test_cat/Tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p02_test_cat/Tests/cat_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p02_test_cat/test_cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p03_list/Tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p03_list/Tests/integer_list_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p03_list/integer_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p04_car/Tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p04_car/Tests/tests_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p04_car/car_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/lab/p04_car/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/01. Structure_Author's Solution.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply/drink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply/supply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/test_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton/project/movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton/project/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton/project/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/supply/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/supply/drink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/supply/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/supply/supply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/aug_22/~$oblem-Description.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/movie_world_unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/p02_movie_world/movie_world_unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/document_management_unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/p03_document_management/document_management_unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_and_static_methods/p04_gym/gym_unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/p04_gym/gym_unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/unit_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/p01_wild_cat_zoo/unit_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterators_generators/p02_dictionary_iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterators_generators/p02_dictionary_iterator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterators_generators/p05_take_halves.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterators_generators/p05_take_halves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterators_generators/p08_prime_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterators_generators/p08_prime_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterators_generators/p08_prime_numbers2.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterators_generators/p08_prime_numbers2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterators_generators/p09_possible_permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterators_generators/p09_possible_permutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterators_generators/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterators_generators/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/lab/p03_list/Tests/integer_list_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/lab/p03_list/Tests/integer_list_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/lab/p04_car/car_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/lab/p04_car/car_car.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +64,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2BGGOyXLYo27ReZ954xsLaOiV4c" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,13 +75,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/unittest/lab" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/Python OOP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\SoftUni\Python OOP\unittest\lab" />
@@ -71,8 +101,8 @@
       <recent name="D:\SoftUni\Python OOP\inheritance\p01_person" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for tests_car.CarTests.test_drive">
-    <configuration name="car_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test_code">
+    <configuration name="controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p04_car" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest/lab/p04_car/car_car.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/controller.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,18 +124,70 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for tests_car.CarTests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p04_car/Tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests_car.CarTests&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/player.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="supply" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply/supply.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/test_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for tests_car.CarTests.test_drive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -116,46 +199,19 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;tests_car.CarTests.test_drive&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for tests_car.CarTests.test_make_setter" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p04_car/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests_car.CarTests.test_make_setter&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in tests_car.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/lab/p04_car/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest/lab/p04_car/Tests/tests_car.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_code" />
+        <item itemvalue="Python.controller" />
+        <item itemvalue="Python.supply" />
+        <item itemvalue="Python.player" />
         <item itemvalue="Python tests.Python tests for tests_car.CarTests.test_drive" />
-        <item itemvalue="Python tests.Python tests in tests_car.py" />
-        <item itemvalue="Python.car_car" />
-        <item itemvalue="Python tests.Python tests for tests_car.CarTests" />
-        <item itemvalue="Python tests.Python tests for tests_car.CarTests.test_make_setter" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +223,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656524982531</updated>
+      <workItem from="1659411075845" duration="5186000" />
+      <workItem from="1659416469172" duration="17319000" />
     </task>
     <task id="LOCAL-00011" summary="Classes and instances - Lab exercises">
       <created>1656585643163</created>
@@ -514,6 +572,9 @@
     <option name="localTasksCounter" value="60" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -524,7 +585,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -573,6 +633,11 @@
           <line>2</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/controller.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -582,5 +647,11 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_OOP$player.coverage" NAME="player Coverage Results" MODIFIED="1659417199174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project" />
+    <SUITE FILE_PATH="coverage/Python_OOP$supply.coverage" NAME="supply Coverage Results" MODIFIED="1659431833255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply" />
+    <SUITE FILE_PATH="coverage/Python_OOP$controller.coverage" NAME="controller Coverage Results" MODIFIED="1659434976343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project" />
+    <SUITE FILE_PATH="coverage/Python_OOP$test_code.coverage" NAME="test_code Coverage Results" MODIFIED="1659434988245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project" />
   </component>
 </project>

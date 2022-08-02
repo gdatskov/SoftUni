@@ -26,4 +26,4 @@ halves = solution()[1]
 print(take(5, halves()))
 
 # Expected output
-# [0.5, 1.0, 1.5, 2.0, 2.5]
+# [0.5, aug_22.0, aug_22.5, 2.0, 2.5]
