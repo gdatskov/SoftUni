@@ -4,111 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Exam prep - problem 3. Movie UnitTest 10.Apr.22">
+    <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Exam prep exercise">
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_1/p02_ad_astra.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_jul_22/p02_emoji_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_jul_22/p02_emoji_detector_regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_jul_22/p03_plant_discovery.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_jul_22/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01. Structure_Author's Solution.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01.Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01.Skeleton/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01.Skeleton/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01.Skeleton/project/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01.Skeleton/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01.Skeleton/project/supply/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01.Skeleton/project/supply/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01.Skeleton/project/supply/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01.Skeleton/project/supply/supply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/01.Skeleton/project/test_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/03. Unit Testing_Author's Solution.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/03. Unit Testing_Author's Solution/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/03. Unit Testing_Author's Solution/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/03.UnitTesting-Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/03.UnitTesting-Skeleton/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/03.UnitTesting-Skeleton/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/03.UnitTesting-Skeleton/project/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/03.UnitTesting-Skeleton/project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/03.UnitTesting-Skeleton/project/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/Problem-Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/Structure_Author's Solution/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/Structure_Author's Solution/project/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/Structure_Author's Solution/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/Structure_Author's Solution/project/supply/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/Structure_Author's Solution/project/supply/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/Structure_Author's Solution/project/supply/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/02_aug_22/Structure_Author's Solution/project/supply/supply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1).zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/movie_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/movie_specification/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/movie_specification/action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/movie_specification/fantasy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/movie_specification/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/movie_specification/thriller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/_.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/__.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/___.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/____.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/_____.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/______.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/_______.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project/movie_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project/movie_specification/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project/movie_specification/action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project/movie_specification/fantasy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project/movie_specification/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project/movie_specification/thriller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project50_117.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project50_121.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project50_145.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/test_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/03.Unit-Testing-Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/03.Unit-Testing-Skeleton/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/03.Unit-Testing-Skeleton/project/plantation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/03.Unit-Testing-Skeleton/project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/03.Unit-Testing-Skeleton/project/test/test_plantation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/04_aug_22/Problem-Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p01_capture_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p02_find_variables_in_sentences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p03_find_occurences_of_word_in_sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p04_extract_emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p05_furniture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p06_extract_links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/More Exercise/p01_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/More Exercise/p02_softuni_bar_income.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/Final_exam_1/p01_the_imitation_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_1/p01_the_imitation_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01. Structure_Author's Solution.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/controller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/player.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply/drink.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply/food.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply/supply.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/test_code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/03. Unit Testing_Author's Solution.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/03. Unit Testing_Author's Solution/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/03. Unit Testing_Author's Solution/test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton/project.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton/project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton/project/movie.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton/project/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton/project/test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/Problem-Description.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/controller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/player.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/supply/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/supply/drink.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/supply/food.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/Structure_Author's Solution/project/supply/supply.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation/aug_22/~$oblem-Description.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints>
@@ -138,16 +58,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/Python Fundamentals&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/SoftUni/Python Fundamentals/Fundamentals Python code files",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\SoftUni\Python OOP\unittest\lab" />
@@ -299,34 +219,7 @@
       <workItem from="1659608768055" duration="5441000" />
       <workItem from="1659614262446" duration="13250000" />
       <workItem from="1659691975614" duration="28000" />
-    </task>
-    <task id="LOCAL-00013" summary="Classes and instances - Exercise - Program 05. To-do list">
-      <created>1656595371893</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1656595371893</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Classes and instances - Exercise - Program 06. Guild System">
-      <created>1656616854858</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1656616854858</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Classes and instances - Exercise - Program 07. Spoopify">
-      <created>1656616893423</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1656616893423</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Classes and instances - Exercise - Program 08. Library">
-      <created>1656616924400</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1656616924400</updated>
+      <workItem from="1659821772726" duration="180000" />
     </task>
     <task id="LOCAL-00017" summary="Inheritance - Exercise - Program 01. Person">
       <created>1656794170572</created>
@@ -643,7 +536,35 @@
       <option name="project" value="LOCAL" />
       <updated>1659442165117</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Exam prep exercise - 02.08.22">
+      <created>1659821912295</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1659821912296</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Exam prep exercise - 04.08.22">
+      <created>1659821933520</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1659821933520</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Exam prep exercise">
+      <created>1659821964468</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1659821964468</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Exam prep exercise">
+      <created>1659821972582</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1659821972582</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -662,9 +583,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Polymorphism and abstraction - Exercise - Program 03. Account" />
-    <MESSAGE value="Polymorphism and abstraction - Exercise - Program 04. Wild Farm" />
-    <MESSAGE value="Polymorphism and abstraction - Exercise - Program 05. Animals" />
     <MESSAGE value="Iterators and Generators - Exercise - Program 01. Take skip" />
     <MESSAGE value="SOLID - Exercise" />
     <MESSAGE value="Iterators and Generators - Exercise - Program 02. Dictionary iterator" />
@@ -687,7 +605,10 @@
     <MESSAGE value="UnitTest - Lab - Program 01. Worker Tests" />
     <MESSAGE value="Exam prep - problem 1. Medieval Games 10.Apr.22" />
     <MESSAGE value="Exam prep - problem 3. Movie UnitTest 10.Apr.22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exam prep - problem 3. Movie UnitTest 10.Apr.22" />
+    <MESSAGE value="Exam prep exercise - 02.08.22" />
+    <MESSAGE value="Exam prep exercise - 04.08.22" />
+    <MESSAGE value="Exam prep exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exam prep exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
