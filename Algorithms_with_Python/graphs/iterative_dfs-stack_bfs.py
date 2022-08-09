@@ -2,15 +2,15 @@ from collections import deque
 
 
 def bfs(node, visited, graph):
-    queue = deque()
+    stack = list()  #stack instead of queue -> dfs
     visited.add(node)
-    queue.appendleft(node)
-    while queue:
-        v = queue.pop()
+    stack.append(node)
+    while stack:
+        v = stack.pop()
         print(v, end= " ")
         for child in graph[v]:
             if child not in visited:
-                queue.appendleft(child)
+                stack.append(child)
                 visited.add(child)
 
 
