@@ -5,20 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Exam prep exercise">
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_1/p02_ad_astra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_jul_22/p02_emoji_detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_jul_22/p02_emoji_detector_regex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_jul_22/p03_plant_discovery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_jul_22/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p01_capture_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p02_find_variables_in_sentences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p03_find_occurences_of_word_in_sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p04_extract_emails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p05_furniture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/Exercise/p06_extract_links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/More Exercise/p01_race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Lect 9 - RegEx/More Exercise/p02_softuni_bar_income.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/Final_exam_1/p01_the_imitation_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Fundamentals/Fundamentals Python code files/Final_exam_preparation/exam_prep_1/p01_the_imitation_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car/muscle_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car/sports_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/test_code1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project_structure_41-50.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project_structure_50-50.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Structure_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Structure_Skeleton.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/11_dec_21/~$. Structure_Problem Description.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,31 +66,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/SoftUni/Python Fundamentals/Fundamentals Python code files",
+    "last_opened_file_path": "D:/SoftUni/Python OOP/exam_preparation/11_dec_21/01. Skeleton/project",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\exam_preparation\11_dec_21\01. Skeleton\project" />
       <recent name="D:\SoftUni\Python OOP\unittest\lab" />
       <recent name="D:\SoftUni\Python OOP\iterators_generators" />
       <recent name="D:\SoftUni\Python OOP\polymorphism_and_abstraction" />
       <recent name="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project" />
-      <recent name="D:\SoftUni\Python OOP\first_steps_in_oop\p08_pokemon_battle\project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python OOP\exam_preparation\11_dec_21\01. Skeleton\project" />
+      <recent name="D:\SoftUni\Python OOP\exam_preparation\11_dec_21\01. Skeleton" />
       <recent name="D:\SoftUni\Python OOP\exam_preparation\04_aug_22\01.Skeleton" />
       <recent name="D:\SoftUni\Python OOP\exam_preparation\04_aug_22\01.Skeleton\project" />
       <recent name="D:\SoftUni\Python OOP\unittest\lab\p04_car" />
-      <recent name="D:\SoftUni\Python OOP\class_and_static_methods\p02_movie_world" />
-      <recent name="D:\SoftUni\Python OOP\encapsulation\p01_wild_cat_zoo\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test (1)">
-    <configuration name="movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.controller">
+    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,12 +101,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/movie_specification" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/movie_specification/movie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car/car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,12 +123,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/controller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="muscle_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car/muscle_car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,12 +167,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\exam_preparation\04_aug_22\01.Skeleton\test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_code1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,34 +189,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/test_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\SoftUni\Python OOP\exam_preparation\04_aug_22\01.Skeleton\test_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/test_code1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.controller" />
+        <item itemvalue="Python.test_code1" />
+        <item itemvalue="Python.muscle_car" />
+        <item itemvalue="Python.car" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.test_code (1)" />
-        <item itemvalue="Python.movie" />
-        <item itemvalue="Python.test_code" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +228,8 @@
       <workItem from="1659614262446" duration="13250000" />
       <workItem from="1659691975614" duration="28000" />
       <workItem from="1659821772726" duration="180000" />
+      <workItem from="1660259111349" duration="8850000" />
+      <workItem from="1660272077162" duration="15191000" />
     </task>
     <task id="LOCAL-00017" summary="Inheritance - Exercise - Program 01. Person">
       <created>1656794170572</created>
@@ -628,6 +638,16 @@
           <line>2</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/test_code1.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car/car.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -640,14 +660,18 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_OOP$.coverage" NAME=" Coverage Results" MODIFIED="1659441940526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton/project/test" />
-    <SUITE FILE_PATH="coverage/Python_OOP$test_code__1_.coverage" NAME="test_code (1) Coverage Results" MODIFIED="1659620575364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton" />
     <SUITE FILE_PATH="coverage/Python_OOP$player.coverage" NAME="player Coverage Results" MODIFIED="1659417199174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project" />
     <SUITE FILE_PATH="coverage/Python_OOP$supply.coverage" NAME="supply Coverage Results" MODIFIED="1659431833255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply" />
-    <SUITE FILE_PATH="coverage/Python_OOP$test.coverage" NAME="test Coverage Results" MODIFIED="1659623285685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project" />
+    <SUITE FILE_PATH="coverage/Python_OOP$test.coverage" NAME="test Coverage Results" MODIFIED="1660282068436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project" />
+    <SUITE FILE_PATH="coverage/Python_OOP$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1660268965043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton" />
+    <SUITE FILE_PATH="coverage/Python_OOP$test_code.coverage" NAME="test_code Coverage Results" MODIFIED="1659618153762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project" />
+    <SUITE FILE_PATH="coverage/Python_OOP$car.coverage" NAME="car Coverage Results" MODIFIED="1660283573964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car" />
+    <SUITE FILE_PATH="coverage/Python_OOP$test_code__1_.coverage" NAME="test_code (1) Coverage Results" MODIFIED="1659620575364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton" />
+    <SUITE FILE_PATH="coverage/Python_OOP$test_code1.coverage" NAME="test_code1 Coverage Results" MODIFIED="1660284681994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project" />
+    <SUITE FILE_PATH="coverage/Python_OOP$sports_car.coverage" NAME="sports_car Coverage Results" MODIFIED="1660263543728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car" />
+    <SUITE FILE_PATH="coverage/Python_OOP$muscle_car.coverage" NAME="muscle_car Coverage Results" MODIFIED="1660283634945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car" />
     <SUITE FILE_PATH="coverage/Python_OOP$user.coverage" NAME="user Coverage Results" MODIFIED="1659614906290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project" />
     <SUITE FILE_PATH="coverage/Python_OOP$movie.coverage" NAME="movie Coverage Results" MODIFIED="1659620231966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/movie_specification" />
-    <SUITE FILE_PATH="coverage/Python_OOP$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1659632545748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton" />
-    <SUITE FILE_PATH="coverage/Python_OOP$controller.coverage" NAME="controller Coverage Results" MODIFIED="1659434976343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project" />
-    <SUITE FILE_PATH="coverage/Python_OOP$test_code.coverage" NAME="test_code Coverage Results" MODIFIED="1659618153762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project" />
+    <SUITE FILE_PATH="coverage/Python_OOP$controller.coverage" NAME="controller Coverage Results" MODIFIED="1660285574590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project" />
   </component>
 </project>
