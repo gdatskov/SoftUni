@@ -1,4 +1,3 @@
-from collections import deque
 from queue import PriorityQueue
 
 
@@ -50,8 +49,6 @@ def prim(node, graph, forest, forest_edges):
 
         for edge in graph[non_tree_node]:
             pq.put(edge)
-
-
 
 
 for node in graph:
