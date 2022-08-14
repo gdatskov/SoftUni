@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/exam_preparation/aug_22/03.UnitTesting-Skeleton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
