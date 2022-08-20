@@ -1,0 +1,14 @@
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\bin\Debug\netcoreapp3.1\Hello Softuni.exe
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\bin\Debug\netcoreapp3.1\Hello Softuni.deps.json
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\bin\Debug\netcoreapp3.1\Hello Softuni.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\bin\Debug\netcoreapp3.1\Hello Softuni.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\bin\Debug\netcoreapp3.1\Hello Softuni.dll
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\bin\Debug\netcoreapp3.1\Hello Softuni.pdb
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\obj\Debug\netcoreapp3.1\Hello Softuni.csproj.AssemblyReference.cache
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\obj\Debug\netcoreapp3.1\Hello Softuni.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\obj\Debug\netcoreapp3.1\Hello Softuni.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\obj\Debug\netcoreapp3.1\Hello Softuni.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\obj\Debug\netcoreapp3.1\Hello Softuni.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\obj\Debug\netcoreapp3.1\Hello Softuni.dll
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\obj\Debug\netcoreapp3.1\Hello Softuni.pdb
+D:\SoftUni\C# Fundamentals\First Steps\Hello World\obj\Debug\netcoreapp3.1\Hello Softuni.genruntimeconfig.cache
