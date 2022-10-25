@@ -5,76 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Algorithms with Python - Final Exam - 13.08.22 - 170/300">
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Problem Description(3).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton(2).zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/baked_food/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/baked_food/baked_food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/baked_food/bread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/baked_food/cake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/bakery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/drink/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/drink/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/drink/tea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/drink/water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/table/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/table/inside_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/table/outside_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/table/table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/03. Unit Testing Skeleton/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/03. Unit Testing Skeleton/project/pet_shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/03. Unit Testing Skeleton/project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/03. Unit Testing Skeleton/project/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/15_aug_21/03. Unit Testing_Skeleton(1).zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Problem Description(4).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3).zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/horse_race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/horse_race_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/horse_specification/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/horse_specification/appaloosa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/horse_specification/horse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/horse_specification/thoroughbred.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/jockey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project_add_horse.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project_add_jockey.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project_add_jockey_to_horse_race.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project_add_race.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project_structure_25-50.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project_structure_50-50.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/03. Unit Testing_Skeleton(2).zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/03. Unit Testing_Skeleton(2)/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/03. Unit Testing_Skeleton(2)/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/03. Unit Testing_Skeleton(2)/project/bookstore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/03. Unit Testing_Skeleton(2)/project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/03. Unit Testing_Skeleton(2)/project/test/test_bookstore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/03. Unit Testing_Skeleton(2)/project_86-100.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_14-08-22/~$. Structure_Problem Description(4).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/01. Mammal_Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/01. Mammal_Skeleton/mammal.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/01. Mammal_Skeleton/mammal/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/01. Mammal_Skeleton/mammal/project/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/01. Mammal_Skeleton/mammal/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/01. Mammal_Skeleton/mammal/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/01. Mammal_Skeleton/mammal/test/test_mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/02. Vehicle_Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/02. Vehicle_Skeleton/vehicle/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/02. Vehicle_Skeleton/vehicle/project/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/02. Vehicle_Skeleton/vehicle/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/02. Vehicle_Skeleton/vehicle/test/test_vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/03. Hero_Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/03. Hero_Skeleton/hero/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/03. Hero_Skeleton/hero/project/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/03. Hero_Skeleton/hero/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/03. Hero_Skeleton/hero/test/test_hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/04. Student_Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/04. Student_Skeleton/student/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/04. Student_Skeleton/student/project/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/04. Student_Skeleton/student/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/exercise/04. Student_Skeleton/student/test/test_student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f2533721-f47f-43fd-bdf4-f0c11e2db42e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f2533721-f47f-43fd-bdf4-f0c11e2db42e.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,21 +49,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/Python OOP&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/SoftUni/Python OOP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\SoftUni\Python OOP\exam_preparation\11_dec_21\01. Skeleton\project" />
@@ -282,6 +209,8 @@
       <workItem from="1660355715153" duration="354000" />
       <workItem from="1660394059221" duration="14870000" />
       <workItem from="1660473946457" duration="10498000" />
+      <workItem from="1661780617255" duration="96000" />
+      <workItem from="1661898268959" duration="643000" />
     </task>
     <task id="LOCAL-00021" summary="Inheritance - Exercise - Program 04. Need for Speed">
       <created>1656801731119</created>
@@ -739,28 +668,5 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_OOP$appaloosa.coverage" NAME="appaloosa Coverage Results" MODIFIED="1660480320544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/horse_specification" />
-    <SUITE FILE_PATH="coverage/Python_OOP$.coverage" NAME=" Coverage Results" MODIFIED="1660477531159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final_exam_14-08-22/03. Unit Testing_Skeleton(2)/project/test" />
-    <SUITE FILE_PATH="coverage/Python_OOP$player.coverage" NAME="player Coverage Results" MODIFIED="1659417199174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project" />
-    <SUITE FILE_PATH="coverage/Python_OOP$supply.coverage" NAME="supply Coverage Results" MODIFIED="1659431833255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/aug_22/01.Skeleton/project/supply" />
-    <SUITE FILE_PATH="coverage/Python_OOP$test.coverage" NAME="test Coverage Results" MODIFIED="1660394501998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/03.Unit-Testing-Skeleton/project/test" />
-    <SUITE FILE_PATH="coverage/Python_OOP$horse_race_app.coverage" NAME="horse_race_app Coverage Results" MODIFIED="1660481350209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project" />
-    <SUITE FILE_PATH="coverage/Python_OOP$main.coverage" NAME="main Coverage Results" MODIFIED="1660484902645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project" />
-    <SUITE FILE_PATH="coverage/Python_OOP$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1660268965043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton" />
-    <SUITE FILE_PATH="coverage/Python_OOP$bakery.coverage" NAME="bakery Coverage Results" MODIFIED="1660409468919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project" />
-    <SUITE FILE_PATH="coverage/Python_OOP$test_code.coverage" NAME="test_code Coverage Results" MODIFIED="1660355783818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/23_aug_21/project" />
-    <SUITE FILE_PATH="coverage/Python_OOP$car.coverage" NAME="car Coverage Results" MODIFIED="1660283573964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car" />
-    <SUITE FILE_PATH="coverage/Python_OOP$test_code__1_.coverage" NAME="test_code (1) Coverage Results" MODIFIED="1659620575364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton" />
-    <SUITE FILE_PATH="coverage/Python_OOP$test_code1.coverage" NAME="test_code1 Coverage Results" MODIFIED="1660284681994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project" />
-    <SUITE FILE_PATH="coverage/Python_OOP$sports_car.coverage" NAME="sports_car Coverage Results" MODIFIED="1660263543728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car" />
-    <SUITE FILE_PATH="coverage/Python_OOP$thoroughbred.coverage" NAME="thoroughbred Coverage Results" MODIFIED="1660480398185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final_exam_14-08-22/01. Structure_Skeleton(3)/project/horse_specification" />
-    <SUITE FILE_PATH="coverage/Python_OOP$space_station.coverage" NAME="space_station Coverage Results" MODIFIED="1660299089801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/23_aug_21/project" />
-    <SUITE FILE_PATH="coverage/Python_OOP$plantation.coverage" NAME="plantation Coverage Results" MODIFIED="1660397740976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/03.Unit-Testing-Skeleton/project" />
-    <SUITE FILE_PATH="coverage/Python_OOP$muscle_car.coverage" NAME="muscle_car Coverage Results" MODIFIED="1660283634945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project/car" />
-    <SUITE FILE_PATH="coverage/Python_OOP$user.coverage" NAME="user Coverage Results" MODIFIED="1659614906290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01.Skeleton/project" />
-    <SUITE FILE_PATH="coverage/Python_OOP$movie.coverage" NAME="movie Coverage Results" MODIFIED="1659620231966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/04_aug_22/01. Structure_Author's Solution(1)/project/movie_specification" />
-    <SUITE FILE_PATH="coverage/Python_OOP$controller.coverage" NAME="controller Coverage Results" MODIFIED="1660285574590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation/11_dec_21/01. Skeleton/project" />
   </component>
 </project>
