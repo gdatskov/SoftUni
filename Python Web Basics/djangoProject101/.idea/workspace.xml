@@ -5,52 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4b28627-7694-4f16-827b-25ed7eb21fa9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/01. Data-Acquisition.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/01. Data-Acquisition.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/02. Data-Tidying-and-Cleaning.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/02. Data-Tidying-and-Cleaning.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/03. Data-Visualization-Exploratory-Data-Analysis.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/03. Data-Visualization-Exploratory-Data-Analysis.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/04. Working-with-Images-and-Text.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/04. Working-with-Images-and-Text.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/05. Working-with-Spatial-Data-and-Network-Analysis.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/05. Working-with-Spatial-Data-and-Network-Analysis.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/06. Regression-Models.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/06. Regression-Models.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/07. Data-Science-Project-Architecture.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/00. Lectures/07. Data-Science-Project-Architecture.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/08. Exam-Preparation-End-To-End-Project-Demos/.ipynb_checkpoints/EpiCuriosity-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/08. Exam-Preparation-End-To-End-Project-Demos/08. Exam-Preparation-End-To-End-Project-Demos.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Artificial intelligence module/2. Data Science/08. Exam-Preparation-End-To-End-Project-Demos/EpiCuriosity.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProject101.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/tasks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/tasks/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/tasks/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/tasks/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/tasks/migrations/0002_rename_tasks_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/tasks/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/tasks/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/tasks/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/tasks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/tasks/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject101/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python OOP/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python OOP/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python OOP/.idea/dataSources/f2533721-f47f-43fd-bdf4-f0c11e2db42e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python OOP/.idea/dataSources/f2533721-f47f-43fd-bdf4-f0c11e2db42e.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject1/.idea/pythonProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject1/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,26 +51,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/SoftUni/Python Web Basics/djangoProject101/templates",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/Python Web Basics/djangoProject101/templates&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\SoftUni\Python Web Basics\djangoProject101\templates" />
@@ -216,7 +185,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666725549080</updated>
-      <workItem from="1666725566685" duration="14799000" />
+      <workItem from="1666725566685" duration="15356000" />
     </task>
     <servers />
   </component>
