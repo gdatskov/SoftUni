@@ -1,0 +1,126 @@
+{% load filters %}
+{% load tags %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+</head>
+<body>
+    <!-- Comments -->
+        <!-- This is Native HTML Comment -->
+
+        {# This is DTL Single line comment (also CTRL+/ ) #}
+
+        {% comment %}
+        This is
+        DTL multiline comment
+        {% endcomment %}
+
+    <!-- URL DTL -->
+        <!-- Take name from view -->
+    {#<nav>#}
+    {#    <a href="{% url 'index' %}">{% url 'index' %}</a>#}
+    {#    <a href="{% url 'redirect to home' %}">{% url 'redirect to home' %}</a>#}
+    {#</nav>#}
+        <!--Give names -->
+    <h2>DTL URLs and Navigation</h2>
+    <h3>HTML Nav:</h3>
+    <nav>
+        <a href="{% url 'index' %}">Go to home</a>
+        <a href="{% url 'redirect to home' %}">Redirect to home</a>
+    </nav>
+    <h3>Tag Nav:</h3>
+    {% tag_nav 'index' 'redirect to home'%}
+    <h4>some more:</h4>
+    {% tag_nav 'index' 'redirect to home' 'redirect to home' 'redirect to home'%}
+
+
+    <!-- CSRF Token-->
+    <h2>CSRF Token: </h2>
+    {{ csrf_token }}
+
+        <!-- DTL Custom filters -->
+    <h2>Custom filters:</h2>
+    <h3>Odd numbers filter:</h3>
+    <div>
+        Original value: {{ values }}
+    </div>
+
+    <div>
+        Odd value: {{ values|odd }}
+    </div>
+
+    <h3>Custom style filter:</h3>
+    <div>{{ now }}</div>
+
+    <div>{{ now|date:'d/m/y' }}</div>
+    <div>{{ now|date_style }}</div>
+
+    <h2>Custom tags:</h2>
+    <div>{% student_info student %}</div>
+    <div>{% sample_tag %}</div>
+    <div>{% sample_tag 17 'Georgi' True %}</div>
+    <div>{% sample_tag department='Engineering' company='TheCompany' %}</div>
+
+    <!-- Basic DTL -->
+    <h1>
+        {{ title }}: {{ value }}
+    </h1>
+    <h1>
+        {{ student.get_info }}  <!-- Not a good idea to make computations in templates -->
+    </h1>
+    <h1>
+        {{ student_info }}      <!-- This is better idea -->
+    </h1>
+
+    <!-- DTL filters -->
+    <h1>
+        {{ title|upper }}: {{ value }}  <!-- adding a filter (in this case "upper") with "|" -->
+    </h1>
+    <h1>
+        {{ title|upper|add:"2" }}: {{ value }}  <!-- adding a chained filter and parameter(add 2 after capitalizing) -->
+    </h1>
+    <h1>
+        {{ title|truncatechars:5 }}: {{ value|add:1 }}  <!-- adding as a number, not as text -->
+    </h1>
+    <h1>
+        Adress: {{ info.adress }}   <!-- info['adress'] in python dict -->
+    </h1>
+    <h1>
+        Students: {{ students|join:", " }}   <!-- join list -->
+    </h1>
+
+
+    <!-- DTL Tags (mini-functions) - if, and, or, not; boolean operators ==, !=, >, <, not in, is; for cycle, etc... -->
+    <div>
+        {% if students_empty %}
+            {{ students_empty|join:", " }}
+        {% else %}
+            No Students
+        {% endif %}
+    </div>
+
+    <h3>Standard For cycle</h3>
+    <ul>
+        {% for student in students %}
+            <li>{{ student }}</li>
+        {% empty %} <!-- if empty for cycle -->
+            No students
+        {% endfor %}
+    </ul>
+
+    <h3>For if changed</h3>
+    <ul>
+        {% for student in students %}
+            {% ifchanged student %}
+                <li>{{ student }}</li>
+            {% endifchanged %}
+        {% endfor %}
+    </ul>
+
+
+</body>
+</html>
