@@ -16,7 +16,7 @@ class Student:
 
 def index(request):
     context = {
-        'title': 'Random number',
+        'title': 'DTL exercise homepage',
         'value': random.random(),
         # 'my value': random.random(),   # space is invalid context variable character
         # 'my.value': random.random(),   # punctuation is invalid context variable character
@@ -55,3 +55,7 @@ def index(request):
 
 def redirect_home(request):
     return redirect('index')
+
+
+def about(request):
+    return render(request, 'about.html')

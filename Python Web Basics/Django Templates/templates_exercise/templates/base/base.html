@@ -1,0 +1,59 @@
+{% load filters %}
+{% load tags %}
+{% load static %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block page_title %}Base is default title{% endblock %}</title>
+
+    <!-- Adding static files -->
+    {# Wrong way to load 'static' files #}
+    {# <link rel="stylesheet" href="/staticfiles/site.css"> #}
+
+    {# Good way to add static files: #}
+    <link rel="stylesheet" href="{% static 'site.css' %}">
+
+    {# Bootstrap library add-on #}
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+            crossorigin="anonymous"></script>
+
+
+    {# Site CSS #}
+    <style>
+        h2 {
+            color: green;
+        }
+    </style>
+    {# Page-specific CSS #}
+    {% block styles %} {% endblock %}
+    {% block head_scripts %} {% endblock %}
+</head>
+<body>
+{% block body_start_scripts %} {% endblock %}
+<h2>DTL Inheritance</h2>
+<h3>HTML Nav:</h3>
+<nav>
+    <a href="{% url 'index' %}">Go to home</a>
+    <a href="{% url 'redirect to home' %}">Redirect to home</a>
+</nav>
+<h3>Tag Nav:</h3>
+{% tag_nav 'index' 'redirect to home' 'about' %}
+<h4>some more:</h4>
+{% tag_nav 'index' 'redirect to home' 'redirect to home' 'redirect to home' %}
+
+<!-- Template inheritance parent tag -->
+{% block page_content %}    {# page_content is custom name #}
+{% endblock %}
+
+{% include 'partials/footer.html' %}
+</body>
+</html>

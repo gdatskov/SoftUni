@@ -1,7 +1,10 @@
+{% extends 'base/base.html' %}
 {% load filters %}
 {% load tags %}
 
+{% block page_title %}{{ title }}{% endblock %}
 
+{% block page_content %} {# inherit page_content block from base.html #}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +36,7 @@
         <a href="{% url 'redirect to home' %}">Redirect to home</a>
     </nav>
     <h3>Tag Nav:</h3>
-    {% tag_nav 'index' 'redirect to home'%}
+    {% tag_nav 'index' 'redirect to home' 'about'%}
     <h4>some more:</h4>
     {% tag_nav 'index' 'redirect to home' 'redirect to home' 'redirect to home'%}
 
@@ -122,5 +125,16 @@
     </ul>
 
 
-</body>
-</html>
+        <h3>Bootstrap list with for loop</h3>
+    <ul class="list-group">
+        {% for student in students %}
+            {% ifchanged student %}
+                <li class="list-group-item">{{ student }}</li>
+            {% endifchanged %}
+        {% endfor %}
+    </ul>
+
+    {% endblock %}
+
+{#</body>#}
+{#</html>#}
