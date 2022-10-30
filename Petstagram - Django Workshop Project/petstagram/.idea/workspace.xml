@@ -4,132 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6df08271-d339-47fe-aad8-3810d292bfa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/petstagram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Workflow.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/accounts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/accounts/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/accounts/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/accounts/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/accounts/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/accounts/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/accounts/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/common/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/common/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/common/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/common/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/common/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/common/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/common/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/pets/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/pets/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/pets/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/pets/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/pets/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/pets/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/pets/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/pets/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/photos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/photos/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/photos/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/photos/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/photos/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/photos/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/photos/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/photos/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petstagram/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/css/404.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/css/petFunctions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/css/petProfile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/css/photoDetails.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/css/profile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/css/profileFunctions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/are_you_sure_cat.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/axolotl.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/dog-on-bed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/dog-on-road.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/edit-pen-icon-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/ezgif.com-gif-maker.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/free-30-instagram-stories-icons23_122570.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/icon-remove-22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/logo-with-name.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/no_posts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/static/images/zillow-404-page-5f3ed6a6abaa5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/home-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/login-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/pet-add-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/pet-delete-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/pet-details-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/pet-edit-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/photo-add-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/photo-details-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/photo-edit-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/profile-delete-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/profile-details-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/profile-edit-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources-part-1/templates/register-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/404.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/petFunctions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/petProfile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/photoDetails.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/profile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/profileFunctions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/are_you_sure_cat.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/axolotl.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/dog-on-bed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/dog-on-road.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/edit-pen-icon-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/ezgif.com-gif-maker.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/free-30-instagram-stories-icons23_122570.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/icon-remove-22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/logo-with-name.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/no_posts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/zillow-404-page-5f3ed6a6abaa5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/login-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/profile-delete-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/profile-details-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/profile-edit-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/register-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base/partials/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/common/home-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pets/pet-add-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pets/pet-delete-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pets/pet-details-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pets/pet-edit-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/photos/photo-add-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/photos/photo-details-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/photos/photo-edit-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python Web Basics/Django Templates/templates_exercise/.idea/jsLibraryMappings.xml" afterDir="false" />
+    <list default="true" id="6df08271-d339-47fe-aad8-3810d292bfa2" name="Changes" comment="Petstagram - Django Workshop part 1">
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/mymusic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/musicapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/musicapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/musicapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/musicapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/musicapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/musicapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/musicapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/musicapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/dataSources/b169434b-9128-40e4-8d97-11d23781a42c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/dataSources/b169434b-9128-40e4-8d97-11d23781a42c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/djangoProject101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/djangoProject101.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +78,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/SoftUni/Python Web Basics/Django Templates/templates_exercise",
+    "last_opened_file_path": "D:/SoftUni/Python Web Basics/djangoProject101",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -232,8 +133,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666965632020</updated>
-      <workItem from="1666965653216" duration="15842000" />
+      <workItem from="1666965653216" duration="17259000" />
+      <workItem from="1666996995739" duration="9833000" />
     </task>
+    <task id="LOCAL-00001" summary="Petstagram - Django Workshop part 1">
+      <created>1666988145731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666988145731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,5 +162,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Petstagram - Django Workshop part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Petstagram - Django Workshop part 1" />
   </component>
 </project>
