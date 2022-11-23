@@ -4,88 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce355d8f-af8d-4a51-9a6d-8affa01c5627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/information_schema.FNRwLQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/information_schema.FNRwLQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mymusic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/mymusicapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/mymusicapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/mymusicapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/mymusicapp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/mymusicapp/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/mymusicapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/mymusicapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/mymusicapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/mymusicapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/mymusicapp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymusic/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/catalog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/create.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/typography.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/BrandiCarlile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/Lorde.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/headphones.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/musicIcons.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/images/pinkFloyd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/albums/add-album.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/albums/album-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/albums/delete-album.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/albums/edit-album.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/core/home-no-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/core/home-with-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/profiles/profile-delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/profiles/profile-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/Petstagram - Django Workshop Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/petstagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/petstagram/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/petstagram/petstagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/petstagram/petstagram/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/dataSources/b169434b-9128-40e4-8d97-11d23781a42c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/dataSources/b169434b-9128-40e4-8d97-11d23781a42c.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/djangoProject101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/djangoProject101.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Web Basics/djangoProject101/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ce355d8f-af8d-4a51-9a6d-8affa01c5627" name="Changes" comment="Web basics Exam prep - My Music App - urls, basic views, templates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,26 +43,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/SoftUni/Petstagram - Django Workshop Project",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/Petstagram - Django Workshop Project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlite",
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;,
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\SoftUni\My Music App - Django exam prep\mymusic\templates\core" />
@@ -186,7 +106,18 @@
       <option name="presentableId" value="Default" />
       <updated>1667086274714</updated>
       <workItem from="1667086295073" duration="12356000" />
+      <workItem from="1667099535089" duration="135000" />
+      <workItem from="1667099720783" duration="5000" />
+      <workItem from="1667551948026" duration="27000" />
     </task>
+    <task id="LOCAL-00001" summary="Web basics Exam prep - My Music App - urls, basic views, templates">
+      <created>1667099649162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667099649162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,5 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Web basics Exam prep - My Music App - urls, basic views, templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Web basics Exam prep - My Music App - urls, basic views, templates" />
   </component>
 </project>
