@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="457f85f3-24c2-48b2-9b01-a56a790e6e76" name="Changes" comment="Django templates exercise part 2">
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/.idea/petstagram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/Workflow.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/accounts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/accounts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/accounts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/accounts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/accounts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/accounts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/accounts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/common/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/common/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/common/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/common/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/common/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/common/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/common/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/pets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/pets/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/pets/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/pets/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/pets/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/pets/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/pets/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/pets/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/photos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/photos/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/photos/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/photos/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/photos/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/photos/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/photos/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/photos/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/petstagram/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/css/404.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/css/petFunctions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/css/petProfile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/css/photoDetails.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/css/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/css/profileFunctions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/are_you_sure_cat.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/axolotl.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/dog-on-bed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/dog-on-road.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/edit-pen-icon-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/ezgif.com-gif-maker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/free-30-instagram-stories-icons23_122570.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/icon-remove-22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/logo-with-name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/no_posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/static/images/zillow-404-page-5f3ed6a6abaa5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/home-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/login-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/pet-add-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/pet-delete-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/pet-details-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/pet-edit-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/photo-add-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/photo-details-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/photo-edit-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/profile-delete-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/profile-details-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/profile-edit-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/resources-part-1/templates/register-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/css/404.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/css/petFunctions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/css/petProfile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/css/photoDetails.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/css/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/css/profileFunctions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/are_you_sure_cat.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/axolotl.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/dog-on-bed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/dog-on-road.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/edit-pen-icon-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/ezgif.com-gif-maker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/free-30-instagram-stories-icons23_122570.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/icon-remove-22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/logo-with-name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/no_posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/staticfiles/images/zillow-404-page-5f3ed6a6abaa5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/accounts/login-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/accounts/profile-delete-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/accounts/profile-details-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/accounts/profile-edit-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/accounts/register-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/base/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/common/home-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/pets/pet-add-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/pets/pet-delete-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/pets/pet-details-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/pets/pet-edit-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/photos/photo-add-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/photos/photo-details-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Petstagram - Django Workshop Project/petstagram/templates/photos/photo-edit-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/templates_exercise/web/urls.py" />
+    </disable_hints>
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GiosdAtmAbICutifmNMw1BLaCQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/SoftUni/Python Web Basics/Django Templates/templates_exercise",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Python Web Basics\Django Templates\templates_exercise\templates_exercise\web" />
+      <recent name="D:\SoftUni\Python Web Basics\Django Templates\templates_exercise\templates_exercise" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="templates_exercise" type="Python.DjangoServer" factoryName="Django server">
+      <module name="templates_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="templates_exercise.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="457f85f3-24c2-48b2-9b01-a56a790e6e76" name="Changes" comment="" />
+      <created>1666880972763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666880972763</updated>
+      <workItem from="1666880992408" duration="17452000" />
+      <workItem from="1666958187276" duration="6693000" />
+      <workItem from="1666980607792" duration="132000" />
+    </task>
+    <task id="LOCAL-00001" summary="Django templates exercise part 1">
+      <created>1666914194831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666914194831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Django templates exercise part 2">
+      <created>1666964016248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666964016248</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Django templates exercise part 1" />
+    <MESSAGE value="Django templates exercise part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Django templates exercise part 2" />
+  </component>
+</project>
