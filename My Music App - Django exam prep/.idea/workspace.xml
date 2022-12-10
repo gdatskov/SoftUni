@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce355d8f-af8d-4a51-9a6d-8affa01c5627" name="Changes" comment="Web basics Exam prep - My Music App - urls, basic views, templates">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/mymusic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/identifier.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/mymusicapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/mymusicapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/mymusicapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/mymusicapp/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/mymusicapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/mymusicapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/mymusicapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/mymusicapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/mymusicapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/mymusicapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/mymusic/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/css/catalog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/css/create.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/css/details.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/css/typography.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/images/BrandiCarlile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/images/Lorde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/images/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/images/headphones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/images/musicIcons.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/staticfiles/images/pinkFloyd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/templates/albums/add-album.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/templates/albums/album-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/templates/albums/delete-album.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/templates/albums/edit-album.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/templates/core/home-no-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/templates/core/home-with-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/templates/profiles/profile-delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymusic/templates/profiles/profile-details.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/mymusic/mymusicapp/models.py" />
+      <file url="file://$PROJECT_DIR$/mymusic/mymusicapp/urls.py" />
+      <file url="file://$PROJECT_DIR$/mymusic/mymusicapp/views.py" />
+    </disable_hints>
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GpX0GrMid6pOHsZHyUX6G5v99g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/repositories/SoftUni Python/My Music App - Django exam prep",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite",
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\My Music App - Django exam prep\mymusic\templates\core" />
+      <recent name="D:\SoftUni\My Music App - Django exam prep\mymusic\templates\profiles" />
+      <recent name="D:\SoftUni\My Music App - Django exam prep\mymusic\templates\albums" />
+      <recent name="D:\SoftUni\My Music App - Django exam prep\mymusic\mymusic" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mymusic" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mymusic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mymusic.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce355d8f-af8d-4a51-9a6d-8affa01c5627" name="Changes" comment="" />
+      <created>1667086274714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667086274714</updated>
+      <workItem from="1667086295073" duration="12356000" />
+      <workItem from="1667099535089" duration="135000" />
+      <workItem from="1667099720783" duration="5000" />
+      <workItem from="1667551948026" duration="27000" />
+      <workItem from="1670677340379" duration="94000" />
+    </task>
+    <task id="LOCAL-00001" summary="Web basics Exam prep - My Music App - urls, basic views, templates">
+      <created>1667099649162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667099649162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Web basics Exam prep - My Music App - urls, basic views, templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Web basics Exam prep - My Music App - urls, basic views, templates" />
+  </component>
+</project>
