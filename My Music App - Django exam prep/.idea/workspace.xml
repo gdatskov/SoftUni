@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce355d8f-af8d-4a51-9a6d-8affa01c5627" name="Changes" comment="Web basics Exam prep - My Music App - urls, basic views, templates">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mymusic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mymusic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymusic/mymusicapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/mymusic/mymusicapp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymusic/mymusicapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mymusic/mymusicapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymusic/mymusicapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mymusic/mymusicapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/albums/add-album.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/albums/add-album.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/albums/album-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/albums/album-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/albums/delete-album.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/albums/delete-album.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/albums/edit-album.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/albums/edit-album.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/core/home-no-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/core/home-no-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/core/home-with-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/core/home-with-profile.html" afterDir="false" />
-    </list>
+    <list default="true" id="ce355d8f-af8d-4a51-9a6d-8affa01c5627" name="Changes" comment="Web basics Exam prep - My Music App - Adding Forms, Finishing app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +109,7 @@
       <workItem from="1667099535089" duration="135000" />
       <workItem from="1667099720783" duration="5000" />
       <workItem from="1667551948026" duration="27000" />
-      <workItem from="1670677340379" duration="12144000" />
+      <workItem from="1670677340379" duration="12522000" />
     </task>
     <task id="LOCAL-00001" summary="Web basics Exam prep - My Music App - urls, basic views, templates">
       <created>1667099649162</created>
@@ -146,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670677683853</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Web basics Exam prep - My Music App - Adding Forms, Finishing app">
+      <created>1670692183515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670692183515</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +159,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Web basics Exam prep - My Music App - urls, basic views, templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Web basics Exam prep - My Music App - urls, basic views, templates" />
+    <MESSAGE value="Web basics Exam prep - My Music App - Adding Forms, Finishing app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Web basics Exam prep - My Music App - Adding Forms, Finishing app" />
   </component>
 </project>
