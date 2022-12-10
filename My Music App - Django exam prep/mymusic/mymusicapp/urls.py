@@ -16,9 +16,10 @@ urlpatterns = [
     path('', index, name='index'),
     path('album/', include([
         path('add/', add_album, name='add album'),
-        path('details/int:pk/', details_album, name='details album'),
-        path('edit/int:pk/', edit_album, name='edit album'),
-        path('delete/int:pk/', delete_album, name='delete album'),
+        # path('details/', details_album, name='details album'),
+        path('details/<int:pk>/', details_album, name='details album'),
+        path('edit/<int:pk>/', edit_album, name='edit album'),
+        path('delete/<int:pk>/', delete_album, name='delete album'),
     ])),
     path('profile/', include([
         path('details/', details_profile, name='details profile'),
