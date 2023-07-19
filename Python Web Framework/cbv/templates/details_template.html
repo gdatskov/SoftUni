@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+</head>
+<body>
+<h1>{{ title }} content:</h1>
+<h2>{{ title }}</h2>
+<h3>Employee:</h3>
+    <ul>Employee number: {{ object.pk }}</ul>
+    <ul> {{ object.details }} (details) </ul>
+<h3><a href="{% url 'edit employee' pk=object.pk %}">Edit employee</a> </h3>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+</head>
+<body>
+<h1>{{ title }} content:</h1>
+<h2>{{ title }}</h2>
+<h1>Employees content:</h1>
+{% for x in employees %}
+    <ul> {{ x.first_name }} {{ x.last_name }} - Seniority: {{ x.seniority_level }} (direct) </ul>
+    <ul> {{ x.details }} (details) </ul>
+{% endfor %}
+</body>
+<h2><a href="{% url 'create employee' %}">Create employee link</a> </h2>
+</html>

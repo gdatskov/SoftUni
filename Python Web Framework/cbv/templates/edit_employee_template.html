@@ -1,0 +1,6 @@
+<h1>Edit employee page</h1>
+<form method="post" action="{% url 'edit employee' pk=object.pk %}">
+    {{ form }}
+    <button>Click</button>
+    {% csrf_token %}
+</form>
