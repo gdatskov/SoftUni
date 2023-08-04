@@ -5,20 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Algorithms with Python - Final Exam - 13.08.22 - 170/300">
-      <change afterPath="$PROJECT_DIR$/../isi_task/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/.idea/isi_task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/env_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/extract_contacts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/matrix_bomb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/shuffle_deck_of_cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isi_task/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My Music App - Django exam prep/mymusic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Music App - Django exam prep/mymusic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f2533721-f47f-43fd-bdf4-f0c11e2db42e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f2533721-f47f-43fd-bdf4-f0c11e2db42e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/ExercisesApril23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/BlindMan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/grocery_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/zombies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/OOP/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/StacksQueuesTuplesSets/numbers_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/CountSameValues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/parking_lot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/softuni_party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/student_grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/sum_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/unique_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/Exam8Apr23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/robots/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/robots/base_robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/robots/female_robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/robots/male_robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/robots_managing_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/services/base_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/services/main_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/services/secondary_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Music App - Django exam prep/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Music App - Django exam prep/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Music App - Django exam prep/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Music App - Django exam prep/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,12 +88,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Data science project",
+    "last_opened_file_path": "D:/repositories/SoftUni Python/Python OOP/Exam8Apr23",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -224,6 +252,7 @@
       <workItem from="1661780617255" duration="96000" />
       <workItem from="1661898268959" duration="643000" />
       <workItem from="1667551982213" duration="2748000" />
+      <workItem from="1681653800714" duration="588000" />
     </task>
     <task id="LOCAL-00021" summary="Inheritance - Exercise - Program 04. Need for Speed">
       <created>1656801731119</created>
@@ -646,11 +675,6 @@
           <url>file://$PROJECT_DIR$/exam_preparation/23_aug_21/project/test_code.py</url>
           <line>14</line>
           <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exam_preparation/23_aug_21/project/space_station.py</url>
-          <line>81</line>
-          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/exam_preparation/15_aug_21/01. Structure_Skeleton/project/bakery.py</url>

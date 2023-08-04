@@ -4,7 +4,87 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce355d8f-af8d-4a51-9a6d-8affa01c5627" name="Changes" comment="Web basics Exam prep - My Music App - Adding Forms, Finishing app" />
+    <list default="true" id="ce355d8f-af8d-4a51-9a6d-8affa01c5627" name="Changes" comment="Web basics Exam prep - My Music App - Adding Forms, Finishing app">
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/ExercisesApril23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/BlindMan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/grocery_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/zombies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/OOP/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/StacksQueuesTuplesSets/numbers_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/CountSameValues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/parking_lot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/softuni_party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/student_grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/sum_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/unique_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/.idea/Exam8Apr23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/project/app_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/project/robots/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/project/robots/base_robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/project/robots/female_robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/project/robots/male_robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/project/robots_managing_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/project/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/project/services/base_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/project/services/main_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/project/services/secondary_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python OOP/Exam8Apr23/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/.idea/Python Web Framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/.idea/cbv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/basic_demos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/basic_demos/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/basic_demos/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/basic_demos/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/basic_demos/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/basic_demos/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/basic_demos/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/basic_demos/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/django_builtin_cbv_demos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/django_builtin_cbv_demos/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/django_builtin_cbv_demos/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/django_builtin_cbv_demos/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/django_builtin_cbv_demos/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/django_builtin_cbv_demos/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/django_builtin_cbv_demos/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/django_builtin_cbv_demos/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/django_builtin_cbv_demos/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/cbv/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/identifier.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/templates/basic_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Web Framework/cbv/templates/details_template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python OOP/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python OOP/.idea/Python OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python OOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python OOP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python OOP/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +190,10 @@
       <workItem from="1667099720783" duration="5000" />
       <workItem from="1667551948026" duration="27000" />
       <workItem from="1670677340379" duration="12522000" />
+      <workItem from="1671469847203" duration="8739000" />
+      <workItem from="1671539496514" duration="6551000" />
+      <workItem from="1671607731685" duration="2606000" />
+      <workItem from="1687261069065" duration="1447000" />
     </task>
     <task id="LOCAL-00001" summary="Web basics Exam prep - My Music App - urls, basic views, templates">
       <created>1667099649162</created>
