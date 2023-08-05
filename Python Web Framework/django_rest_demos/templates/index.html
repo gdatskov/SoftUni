@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+{# Departments will be shown here #}
+<div id="hardcoded-employees">
+</div>
+<div id="api-employees">
+</div>
+
+{# WARNING! JAVASCRIPT! #}
+<script>
+    const getHardcodedEmployees = () => {
+        return [
+            {
+                id: 99,
+                department: {
+                    id: 9,
+                    name: 'HardCodedEngineering'
+                },
+                name: 'HardCodedEmployeeName1',
+                salary: 1111
+            },
+            {
+                id: 98,
+                department: {
+                    id: 9,
+                    name: 'HardCodedEngineering'
+                },
+                name: 'HardCodedEmployeeName2',
+                salary: 1111
+            }
+        ]
+    };
+
+
+    const getAPIEmployees = () =>
+        fetch('{% url 'api employees' %}')
+            .then(response => response.json())
+
+
+
+    const renderEmployeesList = (employees) => {
+        const employeeItems =
+            employees.map(
+                employee => `
+                    <li>${employee.name} works in ${employee.department.name}</li>
+               `
+            );
+        return `
+            <ul>
+                ${employeeItems.join(' ')}
+            </ul>
+        `
+    };
+
+    window.onload = () => {
+        getAPIEmployees().then(
+            employees => {
+                document
+                    .querySelector('#api-employees')
+                    .innerHTML = renderEmployeesList(employees)
+            }
+        )
+
+        document
+            .querySelector('#hardcoded-employees')
+            .innerHTML = renderEmployeesList(getHardcodedEmployees())
+
+    };
+</script>
+
+
+</body>
+</html>

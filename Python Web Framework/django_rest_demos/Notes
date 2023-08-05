@@ -1,0 +1,38 @@
+REST => Representational State Transfer
+
+Django App:
+    Models:
+        - Employees
+        - Departments
+
+Operations:
+    POST
+    GET
+    PUT
+    DELETE
+
+POST api/employees:
+    JSON = {
+        'name': 'Joro',
+        'salary': '1111',
+        'dept_id': 1,
+        }
+
+Update and install apps:
+python -m pip install --upgrade pip
+pip install djangorestframework
+
+Dont forget to freeze requirements:
+pip freeze > requirements.txt
+
+API requests:
+- Book details:
+    GET /api/books/     (get all)
+    GET /api/books/1    (get particular)
+- Book create:
+    POST /api/books/    (with {body})
+    POST /api/books/1   (with {body})
+- Book update:
+    PUT /api/books/1    (with {body})
+- Book delete:
+    DELETE /api/books/1
