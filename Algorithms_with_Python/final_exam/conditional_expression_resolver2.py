@@ -3,6 +3,7 @@ from collections import deque
 entry = input()
 entry_list = deque(entry.split())
 
+
 def extract_bool(queue, bool_list):
     iterations = 0
     while True:
@@ -12,6 +13,7 @@ def extract_bool(queue, bool_list):
             iterations += 1
         else:
             return queue, bool_list, iterations
+
 
 bool_list = []
 extract_bool(entry_list, bool_list)
@@ -32,8 +34,6 @@ while entry_list:
         condition = bool_list.pop()
         if condition == "t":
             exit()
-
-
 
 # print(entry_list)
 
