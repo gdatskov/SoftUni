@@ -5,86 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4b28627-7694-4f16-827b-25ed7eb21fa9" name="Changes" comment="cleanup">
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/information_schema.FNRwLQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/my_music_app_db.aXaB4A/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/information_schema.FNRwLQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232/storage_v2/_src_/database/tasks_db.z6Kb5w/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/mymusic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/identifier.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/mymusicapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/mymusicapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/mymusicapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/mymusicapp/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/mymusicapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/mymusicapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/mymusicapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/mymusicapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/mymusicapp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/mymusic/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/css/catalog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/css/create.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/css/details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/css/typography.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/images/BrandiCarlile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/images/Lorde.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/images/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/images/headphones.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/images/musicIcons.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/staticfiles/images/pinkFloyd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/templates/albums/add-album.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/templates/albums/album-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/templates/albums/delete-album.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/templates/albums/edit-album.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/templates/core/home-no-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/templates/core/home-with-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/templates/profiles/profile-delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../My Music App - Django exam prep/mymusic/templates/profiles/profile-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/Petstagram - Django Workshop Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/petstagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/petstagram/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/petstagram/petstagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Petstagram - Django Workshop Project/petstagram/petstagram/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b169434b-9128-40e4-8d97-11d23781a42c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b169434b-9128-40e4-8d97-11d23781a42c.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/djangoProject101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/djangoProject101.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python OOP/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,27 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/Python Web Basics/djangoProject101&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/repositories/SoftUni Python/Python Web Basics/djangoProject101",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\SoftUni\Python Web Basics\djangoProject101\templates" />
@@ -279,6 +200,7 @@
       <workItem from="1666782704372" duration="701000" />
       <workItem from="1667062714559" duration="946000" />
       <workItem from="1667093865161" duration="832000" />
+      <workItem from="1698019500890" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="cleanup">
       <created>1666780234460</created>

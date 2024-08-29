@@ -5,45 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="365a2dfb-81ed-4286-b754-b35c25a559f0" name="Changes" comment="Algorithms with Python - Final Exam - 13.08.22 - 170/300">
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/ExercisesApril23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/BlindMan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/grocery_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/Exam18Feb23/zombies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/OOP/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/StacksQueuesTuplesSets/numbers_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/CountSameValues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/parking_lot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/softuni_party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/student_grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/sum_pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Advanced/ExercisesApril23/TuplesAndSets/unique_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/Exam8Apr23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/robots/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/robots/base_robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/robots/female_robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/robots/male_robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/robots_managing_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/services/base_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/services/main_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam8Apr23/project/services/secondary_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My Music App - Django exam prep/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Music App - Django exam prep/.idea/dataSources/0d4bdb49-4631-42e9-b387-efd52c19e232.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My Music App - Django exam prep/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Music App - Django exam prep/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/repositories/SoftUni Python/Python OOP/Exam8Apr23",
+    "last_opened_file_path": "D:/repositories/od_tracker",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -253,6 +214,8 @@
       <workItem from="1661898268959" duration="643000" />
       <workItem from="1667551982213" duration="2748000" />
       <workItem from="1681653800714" duration="588000" />
+      <workItem from="1697250082421" duration="619000" />
+      <workItem from="1697470580691" duration="23000" />
     </task>
     <task id="LOCAL-00021" summary="Inheritance - Exercise - Program 04. Need for Speed">
       <created>1656801731119</created>
